@@ -4,9 +4,9 @@ collection: publications
 Authors: <b>Anindya Bijoy Das</b>, Aditya Ramamoorthy, and Namrata Vaswani.'
 date: 07/2021
 venue: 'IEEE Transactions on Information Theory'
-paperurl: 'https://github.com/anindyabijoydas/portfolio/raw/main/files/Convolutional_Coding.pdf'
+paperurl: 'https://arxiv.org/abs/2104.08645'
 presentationurl: ''
-codeurl: ''
+codeurl: 'https://github.com/uclanlp/Robust-XLT'
 excerpt: ''
 ---
 ---
