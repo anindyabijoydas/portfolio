@@ -4,7 +4,7 @@ collection: publications
 Authors: 'Kuan-Hao Huang, <b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
 date: 07/2021
 venue: 'IEEE Transactions on Information Theory'
-paperurl: 'http://academicpages.github.io/files/Convolutional_Coding.pdf'
+paperurl: 'https://github.com/anindyabijoydas/portfolio/blob/main/files/Convolutional_Coding.pdf'
 presentationurl: ''
 codeurl: ''
 excerpt: ''
