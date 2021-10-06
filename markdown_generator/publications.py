@@ -24,6 +24,7 @@
 # In[2]:
 
 import pandas as pd
+import math
 
 
 # ## Import TSV
@@ -34,7 +35,7 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+publications = pd.read_csv("publications.tsv", sep="\t", header=0,encoding = "ISO-8859-1")
 publications
 
 
@@ -63,10 +64,9 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
-    
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
-    year = item.pub_date[:4]
+    year=item.pub_date[-2:]
+    html_filename = str(year) + "-" + item.title
+    md_filename =item.title+'.'+str(year)+ ".md"
     
     ## YAML variables
     
@@ -74,35 +74,43 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
-    md += """\npermalink: /publication/""" + html_filename
-    
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    #md += """\npermalink: /publication/""" + html_filename
+
+    md += "\nAuthors: '" + html_escape(item.authors) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-    
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
-    
-    md += "\n---"
-    
-    ## Markdown description for individual page
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    md += "\npaperurl: '" + item.paper_url + "'"
+
+    try:
+        md += "\npresentationurl: '" + item.presentation_url + "'"
+    except:
+        md += "\npresentationurl: ''"
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
-        
-    md += "\nRecommended citation: " + item.citation
+    md += "\nexcerpt: ''"
+    md += "\n---\n---"
+
+
+    md += "\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
+
+
+    try:
+        md +="\n<div style='display: flex; justify-content: center;'><img src=\'"+item.image_url+"' alt='Image not Loading' style='height:300px;' align='middle'></div><br>\n"
+    except:
+        md +=""
+
+    if len(str(item.abstract)) > 5:
+        md += "\n" + html_escape(item.abstract) + "\n"
     
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
+
+
+        
+
 
 
