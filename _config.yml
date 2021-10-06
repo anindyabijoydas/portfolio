@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Anindya Bijoy Das / Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anindya Bijoy Das"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shibbirtanvin.github.io/abd149/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Anindya Bijoy Das"
+  avatar           : "anindya.jpeg"
+  bio              : "PhD Candidate, Electrical and Computer Engineering, Iowa State University"
+  location         : "Ames, IA-50010, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=xppZiJoAAAAJ&hl=en"
+  email            : "abd149@iastate.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/anindya-bijoy-das-a95472157/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
