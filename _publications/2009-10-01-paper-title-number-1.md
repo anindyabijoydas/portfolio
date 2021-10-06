@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Efficient and Robust Distributed Matrix Computations via Convolutional Coding"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+Authors: 'Kuan-Hao Huang, <b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
+date: 07/2021
+venue: 'IEEE Transactions on Information Theory'
+paperurl: 'http://academicpages.github.io/files/Convolutional_Coding.pdf'
+presentationurl: ''
+codeurl: ''
+excerpt: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
+---
+<a href='https://ieeexplore.ieee.org/abstract/document/9478901' target="_blank">[Download Paper]</a>
+Distributed matrix computations – matrix-matrix or matrix-vector multiplications – are well-recognized to suffer from the problem of stragglers (slow or failed worker nodes). Much of prior work in this area is (i) either sub-optimal in terms of its straggler resilience, or (ii) suffers from numerical problems, i.e., there is a blow-up of round-off errors in the decoded result owing to the high condition numbers of the corresponding decoding matrices. Our work presents a convolutional coding approach to this problem that removes these limitations. It is optimal in terms of its straggler resilience, and has excellent numerical robustness as long as the workers’ storage capacity is slightly higher than the fundamental lower bound. Moreover, it can be decoded using a fast peeling decoder that only involves add/subtract operations. Our second approach has marginally higher decoding complexity than the first one, but allows us to operate arbitrarily close to the storage capacity lower bound. Its numerical robustness can be theoretically quantified by deriving a computable upper bound on the worst case condition number over all possible decoding matrices by drawing connections with the properties of large block Toeplitz matrices. All above claims are backed up by extensive experiments done on the AWS cloud platform.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
