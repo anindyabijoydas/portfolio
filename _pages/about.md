@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,95 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Education**
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+PhD candidate, Department of Electrical and Computer Engineering,
+Iowa State University (since 2016).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Master of Engineering, Department of Electrical and Computer Engineering,
+Iowa State University, 2018.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Bachelor of Science, Department of Electrical and Electronics Engineering,
+Bangladesh University of Engineering and Technology, 2014.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Experiences**
 
-**Markdown generator**
+Research Assistant, Department of Electrical and Computer Engineering,
+Iowa State University (August 2019 - Present).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Teaching Assistant, Department of Electrical and Computer Engineering,
+Iowa State University (August 2016 - August 2019).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Lecturer, Department of Electrical and Computer Engineering,
+Presidency University, Dhaka, Bangladesh (February 2015 - July 2016).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Publications**
+
+**Journal Papers**
+
+“Efficient and Robust Distributed Matrix Computations via Convolutional Coding" Anindya Bijoy Das, Aditya Ramamoorthy and Namrata Vaswani, IEEE Transactions on Information Theory, 2021 (to appear).
+
+"Straggler-resistant distributed matrix computation via coding theory: Removing a Bottleneck in Large-Scale Data Processing" Aditya Ramamoorthy, Anindya Bijoy Das and Li Tang, IEEE Signal Processing Magazine, vol. 37, no. 3, pp 136-145, May 2020.
+
+"Classification of focal and non-focal EEG signals in VMD-DWT domain using ensemble stacking" Md. Mosheyur Rahman, Mohammed Imamul Hassan Bhuiyan and Anindya Bijoy Das, Biomedical Signal Processing and Control, vol. 50, pp. 72-82, April 2019.
+
+"Discrimination and classification of focal and non-focal EEG signals using entropy-based features in the EMD-DWT domain" Anindya Bijoy Das and Mohammed Imamul Hassan Bhuiyan, Biomedical Signal Processing and Control, vol. 29, pp. 11-21, August 2016.
+
+"Classification of EEG signals using normal inverse Gaussian parameters in the dual-tree complex wavelet transform domain for seizure detection" Anindya Bijoy Das, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, Signal, Image and Video Processing , vol. 10, pp. 259-266, 2016.
+
+**Conference Papers**
+
+"Coded sparse matrix computation schemes that leverage partial stragglers" Anindya Bijoy Das and Aditya Ramamoorthy, IEEE International Symposium on Information Theory (ISIT), July 2021 (to appear).
+
+"Distributed Matrix-Vector Multiplication: A Convolutional Coding Approach" Anindya Bijoy Das and Aditya Ramamoorthy, IEEE International Symposium on Information Theory (ISIT), Paris, France, July 2019.
+
+"C3LES: Codes for Coded Computation that Leverage Stragglers" Anindya Bijoy Das, Li Tang and Aditya Ramamoorthy, IEEE Information Theory Workshop (ITW), China, November 2018.
+
+"Discrimination of focal and non-focal EEG signals using entropy-based features in EEMD and CEEMDAN domains"Anindya Bijoy Das and Mohammed Imamul Hassan Bhuiyan, International Conference on Electrical and Computer Engineering (ICECE), Bangladesh, December 2016.
+
+"A statistical method for automatic detection of seizure and epilepsy in the dual tree complex wavelet transform domain" Anindya Bijoy Das, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, International Conference on Informatics, Electronics & Vision (ICIEV), Bangladesh, May 2014.
+
+"Statistical parameters in the dual tree complex wavelet transform domain for the detection of epilepsy and seizure" Anindya Bijoy Das, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, International Conference on Electrical Information and Communication Technology (EICT), Bangladesh, 2014.
+
+
+**Completed Courseworks**
+
+**Graduate Courses**
+Deep Machine Learning
+Convex Optimization
+Abstract Algebra
+Introduction to Real Analysis
+Design Theory and Association Schemes
+Non-linear Programming
+Data Analytics
+
+**Undergraduate Courses**
+Linear Algebra
+Random Signals and Processes
+Digital Signal Processing I & II
+Digital Communication
+Numerical Analysis
+
+**Awards**
+
+"Teaching Excellence Award", Electrical and Computer Engineering, Iowa State University, Fall 2020.
+"National Champion", Bangladesh Mathematical Olympiad, 2008.
+"Best Paper Award (1st)", in Intl. Conf. on Electrical Engineering and Information Communcation Tech., 2015.
+"Best Paper Award (2nd)", in Intl. Conf. on Electrical Information and Communcation Technology, 2013.
+"NSF travel Grant", for International Symposium on Information Theory (ISIT), 2019.
+
+**Miscellaneous**
+
+Student Member, IEEE (since 2019).
+Member Information Theory Society (since 2019).
+Have served as a reviewer in different reputed journals.
+Former Secretary, Bangladesh Student Association, Iowa State University.
+Dean's List Award, during BSc in Bangladesh University of Engineering and Technology.
+
+**Recent News**
+
+Presented two of my papers in International Symposium on Information Theory (ISIT), July 2021.
+Presented my work in North American School of Information Theory (NASIT), June 2021.
+One of my works has been accepted for publication in IEEE Transactions on Information Theory.
