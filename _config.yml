@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "https://github.com/anindyabijoydas"
+  cv               : "https://www.dropbox.com/s/61q6cvxirf72wqr/anindya.pdf?dl=0"
   google_plus      :
   keybase          :
   instagram        :
