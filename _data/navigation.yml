@@ -4,7 +4,7 @@ main:
     url: /experience/
     
   - title: "Education"
-    url: /cv/    
+    url: /education/    
     
   - title: "Publications"
     url: /publications/
@@ -19,5 +19,5 @@ main:
     url: /awards/
     
   - title: "Miscellaneous"
-    url: /miscellaneous/
+    url: /cv/
     
