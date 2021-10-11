@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate, Electrical and Computer Engineering, Iowa State University"
   location         : "Ames, IA-50010, USA"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xppZiJoAAAAJ&hl=en"
   email            : "abd149@iastate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : "https://github.com/anindyabijoydas"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
