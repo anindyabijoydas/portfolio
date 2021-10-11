@@ -10,6 +10,8 @@ redirect_from:
 
 Work experiences
 ======
-* Research Assistant, Department of Electrical and Computer Engineering, Iowa State University (August 2019 - Present).
-* Teaching Assistant, Department of Electrical and Computer Engineering,Iowa State University (August 2016 - August 2019).
-* Lecturer, Department of Electrical and Computer Engineering, Presidency University, Dhaka, Bangladesh (February 2015 - July 2016).
+* Research Assistant, lectrical and Computer Engineering, <br/> Iowa State University (August 2019 - Present). <br/> Working on enhancing the numerical stability and the overall speed of distributed computations. <br/> Necessary simulations are done in Amazon Web Services (AWS) Cluster. 
+
+* Teaching Assistant, Electrical and Computer Engineering, <br/> Iowa State University (August 2016 - August 2019). <br/>  Responsible to Conduct Laboratory Courses, office hours and for grading the exams.
+
+* Lecturer, Electrical and Computer Engineering, <br/> Presidency University, Bangladesh (February 2015 - July 2016). <br/>  Instructed courses are Numerical Methods, Digital Signal Processing, Programming Language (C) etc.
