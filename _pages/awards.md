@@ -13,8 +13,8 @@ Awards
 
 * National Champion, <br/> Bangladesh Mathematical Olympiad, 2008.
 
-* Best Paper Award (1st)", <br/> Intl. Conf. on Electrical Engineering and Information Communcation Tech., 2015.
+* Best Paper Award (1st)", <br/> International Conference on Electrical Engineering and Information Communcation Technology, 2015.
 
-* Best Paper Award (2nd), <br/> in Intl. Conf. on Electrical Information and Communcation Technology, 2013.
+* Best Paper Award (2nd), <br/> in International Conference on Electrical Information and Communcation Technology, 2013.
 
 * NSF travel Grant,  <br/> for International Symposium on Information Theory (ISIT), 2019.
