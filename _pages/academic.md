@@ -16,7 +16,6 @@ Graduate Courses
 * Statistical Machine Learning
 * Convex Optimization 
 
-<br /> <br />
 <br />
 
 
