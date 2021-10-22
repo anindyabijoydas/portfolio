@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="background-color: #FFFF00">Straggler mitigation in distributed computation</span>
+Straggler mitigation in distributed computation
 ======
 In my PhD research in Iowa State University under the supervision of Professor Aditya Ramamoorthy, I am working on the straggler issue in distributed computations, specifically for distributed matrix-matrix multiplication. Usually the large-scale matrix multiplication is done over the cluster consisting of several worker nodes, some of which may be significantly slower than others. These slower nodes are called stragglers, and we have developed novel schemes which treat the stragglers efficiently to have a fast and numerically stable distributed computation system. The corresponding publications include-
 
