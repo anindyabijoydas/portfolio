@@ -21,9 +21,9 @@ In my PhD research in Iowa State University under the supervision of Professor A
    * **Anindya Bijoy Das**, Aditya Ramamoorthy and Li Tang, [''**C3LES : Codes for Coded Computation that Leverage Stragglers**'',](https://ieeexplore.ieee.org/abstract/document/8613321) in IEEE Information Theory Workshop (ITW), 2018, pp. 1-5
 
 * **Under Review**
-   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review.
+   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review.<br />
 
-&nbsp;
+
 Detection of epilepsy and epileptogenic zones 
 ======
 In my research in Bangladesh University of Engineering and Technology under the supervision of Professor Mohammed Imamul Hassan Bhuiyan, I have worked on classification of EEG data, specifically on the detection of seizure and the epileptogenic zones of the brain. I have worked on publicly available real-time EEG data and extracted suitable features in different time-frequency domains to classify the EEG data. The corresponding publications include-
@@ -37,7 +37,3 @@ In my research in Bangladesh University of Engineering and Technology under the 
    * **Anindya Bijoy Das** and Mohammed Imamul Hassan Bhuiyan, [''**Discrimination of focal and non-focal EEG signals using entropy-based features in EEMD and CEEMDAN domains**'',](https://ieeexplore.ieee.org/abstract/document/7853950) in IEEE International Conference on Electrical and Computer Engineering (ICECE), pp. 435-438, 2016
    * Syed Khairul Bashar, **Anindya Bijoy Das** and Mohammed Imamul Hassan Bhuiyan, [''**Motor imagery movements detection of EEG signals using statistical features in the Dual Tree Complex Wavelet Transform domain**'',](https://ieeexplore.ieee.org/abstract/document/7307506) in IEEE International conference on electrical engineering and information communication technology (ICEEICT), pp. 1-6, 2015
    * **Anindya Bijoy Das**, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, [''**A statistical method for automatic detection of seizure and epilepsy in the dual tree complex wavelet transform domain**'',](https://ieeexplore.ieee.org/abstract/document/6850758) in IEEE International Conference on Informatics, Electronics & Vision (ICIEV), pp. 1-6, 2014
-
-
-
-
