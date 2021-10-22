@@ -21,7 +21,8 @@ In my PhD research in Iowa State University under the supervision of Professor A
    * **Anindya Bijoy Das**, Aditya Ramamoorthy and Li Tang, [''**C3LES : Codes for Coded Computation that Leverage Stragglers**'',](https://ieeexplore.ieee.org/abstract/document/8613321) in IEEE Information Theory Workshop (ITW), 2018, pp. 1-5
 
 * **Under Review**
-   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review.<br />
+   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review <br />
+<br /> <br />
 
 
 Detection of epilepsy and epileptogenic zones 
