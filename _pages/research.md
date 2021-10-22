@@ -7,27 +7,20 @@ redirect_from:
 
 {% include base_path %}
 
-Numerical stability of distributed computation
+Straggler mitigation in distributed computation
 ======
-* Deep Machine Learning
-* Non-linear Programming
+In my PhD research in Iowa State University under the supervision of Professor Aditya Ramamoorthy, I am working on the straggler issue in distributed computations, specifically for distributed matrix-matrix multiplication. Usually the large-scale matrix multiplication is done over the cluster consisting of several worker nodes, some of which may be significantly slower than others. These slower nodes are called stragglers, and we have developed novel schemes which treat the stragglers efficiently to have a fast and numerically stable distributed computation system. The corresponding publications include-
+
+* **Journal Papers**
+* **Conference Papers**
 
 
-Leveraging stragglers of distributed computation
+Detection of epilepsy and epileptogenic zones 
 ======
-* Deep Machine Learning
-* Non-linear Programming
+In my research in Bangladesh University of Engineering and Technology under the supervision of Professor Mohammed Imamul Hassan Bhuiyan, I have worked on classification of EEG data, specifically on the detection of seizure and the epileptogenic zones of the brain. I have worked on publicly available real-time EEG data and extracted suitable features in different time-frequency domains to classify the EEG data. The corresponding publications include-
 
+* **Journal Papers**
+* **Conference Papers**
 
-Seizure detection from Bonn EEG database
-======
-* Deep Machine Learning
-* Non-linear Programming
-
-
-Detecting the epileptogenic zones from Bern-Barcelona EEG datasets
-======
-* Deep Machine Learning
-* Non-linear Programming
 
 
