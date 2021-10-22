@@ -1,16 +1,33 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+permalink: /research/
 author_profile: true
+redirect_from:
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Research on numerical stability of distributed computation
+======
+* Deep Machine Learning
+* Non-linear Programming
+
+
+Research on leveraging stragglers of distributed computation
+======
+* Deep Machine Learning
+* Non-linear Programming
+
+
+Research on seizure detection from Bonn EEG database
+======
+* Deep Machine Learning
+* Non-linear Programming
+
+
+Research on detecting the epileptogenic zones from Bern-Barcelona EEG datasets
+======
+* Deep Machine Learning
+* Non-linear Programming
+
+
