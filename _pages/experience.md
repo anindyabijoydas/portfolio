@@ -9,7 +9,7 @@ redirect_from:
 
 Work experiences
 ======
-* **Research Assistant**, Electrical and Computer Engineering, <br/> Iowa State University (August 2019 - Present). <br/> Working on enhancing the numerical stability and the overall speed of distributed computations. <br/> Necessary simulations are done in Amazon Web Services (AWS) Cluster. 
+* **Research Assistant**, Electrical and Computer Engineering, <br/> Iowa State University (August 2019 - Present). <br/> * Working on enhancement of the numerical stability and the overall speed of distributed computations. <br/> * Necessary simulations are done in Amazon Web Services (AWS) Cluster. 
 
 * **Teaching Assistant**, Electrical and Computer Engineering, <br/> Iowa State University (August 2016 - August 2019). <br/>  Responsible to Conduct Laboratory Courses, office hours and for grading the exams.
 
