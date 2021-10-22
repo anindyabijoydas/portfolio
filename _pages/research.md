@@ -23,7 +23,7 @@ In my PhD research in Iowa State University under the supervision of Professor A
 * **Under Review**
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review.
 
-
+&nbsp;
 Detection of epilepsy and epileptogenic zones 
 ======
 In my research in Bangladesh University of Engineering and Technology under the supervision of Professor Mohammed Imamul Hassan Bhuiyan, I have worked on classification of EEG data, specifically on the detection of seizure and the epileptogenic zones of the brain. I have worked on publicly available real-time EEG data and extracted suitable features in different time-frequency domains to classify the EEG data. The corresponding publications include-
