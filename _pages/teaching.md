@@ -7,9 +7,13 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching experiences
+Teaching Career
 ======
 
-* **Teaching Assistant**, Electrical and Computer Engineering, <br/> Iowa State University (August 2016 - August 2019). <br/>  -- Responsible to conduct laboratory courses and office hours for the students <br/>  -- Responsible for grading their mid-term and final exams
+* Certified as **Preparing Future Faculty Associate** <br/> Iowa State University, 2020
 
-* **Lecturer**, Electrical and Computer Engineering, <br/> Presidency University, Bangladesh (February 2015 - July 2016). <br/> -- Responsible to conduct theory and laboratory courses for the undergrad students <br/> -- Instructed courses are Numerical Methods, Digital Signal Processing, Programming Language (C) etc. <br/> -- Responsible to prepare the syllabus, prepare the questions and grade the exams
+* **Teaching Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019) <br/>  -- Responsible to conduct laboratory courses and office hours for the students <br/>  -- Responsible for grading their mid-term and final exams
+
+* **Lecturer** Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016) <br/> -- Responsible to conduct theory and laboratory courses for the undergrad students <br/> -- Instructed courses are Numerical Methods, Digital Signal Processing, Programming Language (C) etc. <br/> -- Responsible to prepare the syllabus, prepare the questions and grade the exams
+
+* **Volunteer Tutor** <br/> Cymath-kids, led by Professor Dr. Namrata Vaswani <br/> Iowa State University <br/> -- Responsible to teach Mathematics to the 4th grade kids 
