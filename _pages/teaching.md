@@ -10,7 +10,7 @@ redirect_from:
 Teaching Career
 ======
 
-* Certified as **Preparing Future Faculty Associate** <br/> Iowa State University, 2020
+* **Preparing Future Faculty Associate** <br/> Certified by Iowa State University, 2020
 
 * **Teaching Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019) <br/>  -- Responsible to conduct laboratory courses and office hours for the students <br/>  -- Responsible for grading their mid-term and final exams
 
