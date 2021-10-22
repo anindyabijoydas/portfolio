@@ -36,21 +36,21 @@ Academic Projects
   * Utilized different related functions and parameters to achieve higher accuracy
 
 * **Application of decision tree for 'Breast Cancer Wisc. (Original)' dataset**
-  * Implemented convolutional neural network in TensorFlow using GPU
-  * Utilized different related functions and parameters to achieve higher accuracy
+  * Utilized sklearn (scikit-learn) toolbox to implement decision tree 
+  * Visualized the decision trees for k-fold cross-validation 
 
 * **Designing the university course registration system using C**
-  * Implemented convolutional neural network in TensorFlow using GPU
-  * Utilized different related functions and parameters to achieve higher accuracy
+  * Designing a system where students can enter and register or drop courses 
+  * Implementing all the primary concepts of programming languages 
 
 * **Review of ADMM and its applications**
-  * Implemented convolutional neural network in TensorFlow using GPU
-  * Utilized different related functions and parameters to achieve higher accuracy
+  * Reviewing the idea of ADMM for optimization algorithms
+  * Estimation of the underlying pdf parameters for EEG data using ADMM
 
 * **Optimization algorithms and machine learning for X-ray CT Images**
-  * Implemented convolutional neural network in TensorFlow using GPU
-  * Utilized different related functions and parameters to achieve higher accuracy
+  * Developed a regularized MM algorithm to recover images from sparse sampling
+  * Appropriate CT image reconstruction from Limited Angle Projections
 
 * **Designing one-digit calculator using digital logic design**
-  * Implemented convolutional neural network in TensorFlow using GPU
-  * Utilized different related functions and parameters to achieve higher accuracy
+  * Designing the multiplication and division schemes with 74-series ICs
+  * Designing an efficient method to take inputs and show outputs
