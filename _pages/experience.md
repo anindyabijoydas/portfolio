@@ -9,8 +9,8 @@ redirect_from:
 
 Work experiences
 ======
-* **Research Assistant**, Electrical and Computer Engineering, <br/> Iowa State University (August 2019 - Present)
+* **Research Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2019 - Present)
 
-* **Teaching Assistant**, Electrical and Computer Engineering, <br/> Iowa State University (August 2016 - August 2019)
+* **Teaching Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019)
 
-* **Lecturer**, Electrical and Computer Engineering, <br/> Presidency University, Bangladesh (February 2015 - July 2016)
+* **Lecturer** <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016)
