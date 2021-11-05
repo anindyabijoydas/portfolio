@@ -16,7 +16,7 @@ In my PhD research in Iowa State University under the supervision of Professor A
    * Aditya Ramamoorthy, **Anindya Bijoy Das**, Li Tang, [''**Straggler-Resistant Distributed Matrix Computation via Coding Theory: Removing a Bottleneck in Large-Scale Data Processing**'',](https://ieeexplore.ieee.org/abstract/document/9084368) in IEEE Signal Processing Magazine, vol. 37, no. 3, pp. 136-145, May 2020. [**Download the paper**](https://www.dropbox.com/s/48di7uhogpsv49k/spmag.pdf?dl=0)
 
 * **Conference Papers**
-   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation**'',](https://arxiv.org/abs/2109.12070) in IEEE Information Theory Workshop (ITW), 2021
+   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation**'',](https://arxiv.org/abs/2109.12070) in IEEE Information Theory Workshop (ITW), 2021. [**Download the paper**](https://www.dropbox.com/s/b8mf72b0jzfo3y4/class.pdf?dl=0)
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Distributed matrix-vector multiplication: A convolutional coding approach**'',](https://ieeexplore.ieee.org/abstract/document/8849395) in IEEE International Symposium on Information Theory (ISIT),  2019, pp. 3022-3026
    * **Anindya Bijoy Das**, Aditya Ramamoorthy and Li Tang, [''**C3LES : Codes for Coded Computation that Leverage Stragglers**'',](https://ieeexplore.ieee.org/abstract/document/8613321) in IEEE Information Theory Workshop (ITW), 2018, pp. 1-5
 
