@@ -12,7 +12,7 @@ Teaching Career
 
 * **Preparing Future Faculty Associate** <br/> Certified by Iowa State University, 2020
 
-* **Teaching Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019) <br/>  Conducted courses: Intro to Circuits and Instruments, Intro to AC Circuits and Motors
+* **Teaching Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019) <br/>  Conducted courses: Intro to Circuits, Instruments, AC Circuits and Motors
 
 * **Lecturer** <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016) <br/> Conducted courses: Numerical Methods, DSP, C, Electronics etc.
 
