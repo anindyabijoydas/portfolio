@@ -13,15 +13,15 @@ In my PhD research in Iowa State University under the supervision of Professor A
 
 * **Journal Papers**
    * **Anindya Bijoy Das**, Aditya Ramamoorthy, Namrata Vaswani, [''**Efficient and Robust Distributed Matrix Computations via Convolutional Coding**'',](https://ieeexplore.ieee.org/abstract/document/9478901) in IEEE Transactions on Information Theory, vol. 67, no. 9, pp. 6266-6282, Sept. 2021. [Download](https://www.dropbox.com/s/jor6hn9lkdba62c/ittrans.pdf?dl=0)
-   * Aditya Ramamoorthy, **Anindya Bijoy Das**, Li Tang, [''**Straggler-Resistant Distributed Matrix Computation via Coding Theory: Removing a Bottleneck in Large-Scale Data Processing**'',](https://ieeexplore.ieee.org/abstract/document/9084368) in IEEE Signal Processing Magazine, vol. 37, no. 3, pp. 136-145, May 2020. [**Download the paper**](https://www.dropbox.com/s/48di7uhogpsv49k/spmag.pdf?dl=0)
+   * Aditya Ramamoorthy, **Anindya Bijoy Das**, Li Tang, [''**Straggler-Resistant Distributed Matrix Computation via Coding Theory: Removing a Bottleneck in Large-Scale Data Processing**'',](https://ieeexplore.ieee.org/abstract/document/9084368) in IEEE Signal Processing Magazine, vol. 37, no. 3, pp. 136-145, May 2020. [Download](https://www.dropbox.com/s/48di7uhogpsv49k/spmag.pdf?dl=0)
 
 * **Conference Papers**
-   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation**'',](https://arxiv.org/abs/2109.12070) in IEEE Information Theory Workshop (ITW), 2021. [**Download the paper**](https://www.dropbox.com/s/b8mf72b0jzfo3y4/class.pdf?dl=0)
+   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation**'',](https://arxiv.org/abs/2109.12070) in IEEE Information Theory Workshop (ITW), 2021. [Download](https://www.dropbox.com/s/b8mf72b0jzfo3y4/class.pdf?dl=0)
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Distributed matrix-vector multiplication: A convolutional coding approach**'',](https://ieeexplore.ieee.org/abstract/document/8849395) in IEEE International Symposium on Information Theory (ISIT),  2019, pp. 3022-3026
    * **Anindya Bijoy Das**, Aditya Ramamoorthy and Li Tang, [''**C3LES : Codes for Coded Computation that Leverage Stragglers**'',](https://ieeexplore.ieee.org/abstract/document/8613321) in IEEE Information Theory Workshop (ITW), 2018, pp. 1-5
 
 * **Under Review**
-   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review. [**Download the paper**](https://www.dropbox.com/s/qdstmozj03gxtpw/sparse.pdf?dl=0) <br />
+   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review. [Download](https://www.dropbox.com/s/qdstmozj03gxtpw/sparse.pdf?dl=0) <br />
 <br /> <br />
 
 
@@ -31,8 +31,8 @@ In my research in Bangladesh University of Engineering and Technology under the 
 
 * **Journal Papers**
    * Md. Mosheyur Rahman, Mohammed Imamul Hassan Bhuiyan, and **Anindya Bijoy Das** [''**Classification of focal and non-focal EEG signals in VMD-DWT domain using ensemble stacking**'',](https://www.sciencedirect.com/science/article/abs/pii/S1746809419300126) in Biomedical Signal Processing and Control, Elsevier, vol. 50, pp. 72-82, 2019
-   * **Anindya Bijoy Das** and Mohammed Imamul Hassan Bhuiyan, [''**Discrimination and classification of focal and non-focal EEG signals using entropy-based features in the EMD-DWT domain**'',](https://www.sciencedirect.com/science/article/abs/pii/S1746809416300465) in Biomedical Signal Processing and Control, Elsevier, vol. 29, pp. 11-21, 2016. [**Download the paper**](https://www.dropbox.com/s/lopr5cq523l9ibw/bspc.pdf?dl=0) 
-   * **Anindya Bijoy Das**, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, [''**Classification of EEG signals using normal inverse Gaussian parameters in the dual-tree complex wavelet transform domain for seizure detection**'',](https://link.springer.com/article/10.1007%2Fs11760-014-0736-2) in Signal, Image and Video Processing , Springer, vol. 10, issue 2, pp. 259-266, 2016. [**Download the paper**](https://www.dropbox.com/s/8np8rlffnsqalu9/sivp.pdf?dl=0) 
+   * **Anindya Bijoy Das** and Mohammed Imamul Hassan Bhuiyan, [''**Discrimination and classification of focal and non-focal EEG signals using entropy-based features in the EMD-DWT domain**'',](https://www.sciencedirect.com/science/article/abs/pii/S1746809416300465) in Biomedical Signal Processing and Control, Elsevier, vol. 29, pp. 11-21, 2016. [Download](https://www.dropbox.com/s/lopr5cq523l9ibw/bspc.pdf?dl=0) 
+   * **Anindya Bijoy Das**, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, [''**Classification of EEG signals using normal inverse Gaussian parameters in the dual-tree complex wavelet transform domain for seizure detection**'',](https://link.springer.com/article/10.1007%2Fs11760-014-0736-2) in Signal, Image and Video Processing , Springer, vol. 10, issue 2, pp. 259-266, 2016. [Download](https://www.dropbox.com/s/8np8rlffnsqalu9/sivp.pdf?dl=0) 
 
 * **Conference Papers**
    * **Anindya Bijoy Das** and Mohammed Imamul Hassan Bhuiyan, [''**Discrimination of focal and non-focal EEG signals using entropy-based features in EEMD and CEEMDAN domains**'',](https://ieeexplore.ieee.org/abstract/document/7853950) in IEEE International Conference on Electrical and Computer Engineering (ICECE), pp. 435-438, 2016
