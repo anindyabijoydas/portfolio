@@ -17,8 +17,8 @@ In my PhD research in Iowa State University under the supervision of Professor A
 
 * **Conference Papers**
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation**'',](https://arxiv.org/abs/2109.12070) in IEEE Information Theory Workshop (ITW), 2021. [Download paper](https://www.dropbox.com/s/b8mf72b0jzfo3y4/class.pdf?dl=0) [Download presentation](https://www.dropbox.com/s/wowfbn9dnygnp6h/class_presentation.pdf?dl=0)
-   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Distributed matrix-vector multiplication: A convolutional coding approach**'',](https://ieeexplore.ieee.org/abstract/document/8849395) in IEEE International Symposium on Information Theory (ISIT),  2019, pp. 3022-3026
-   * **Anindya Bijoy Das**, Aditya Ramamoorthy and Li Tang, [''**C3LES : Codes for Coded Computation that Leverage Stragglers**'',](https://ieeexplore.ieee.org/abstract/document/8613321) in IEEE Information Theory Workshop (ITW), 2018, pp. 1-5
+   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Distributed matrix-vector multiplication: A convolutional coding approach**'',](https://ieeexplore.ieee.org/abstract/document/8849395) in IEEE International Symposium on Information Theory (ISIT),  2019, pp. 3022-3026. [Download paper](https://www.dropbox.com/s/kbtf394dzodxpyv/geometric.pdf?dl=0)
+   * **Anindya Bijoy Das**, Aditya Ramamoorthy and Li Tang, [''**C3LES : Codes for Coded Computation that Leverage Stragglers**'',](https://ieeexplore.ieee.org/abstract/document/8613321) in IEEE Information Theory Workshop (ITW), 2018, pp. 1-5. [Download paper](https://www.dropbox.com/s/rc3bd70vovbshnu/cyclic.pdf?dl=0)
 
 * **Under Review**
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review. [Download paper](https://www.dropbox.com/s/qdstmozj03gxtpw/sparse.pdf?dl=0) [Download presentation](https://www.dropbox.com/s/6v6sn0urfh8ique/sparse_presentaion.pdf?dl=0)<br />
