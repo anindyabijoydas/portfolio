@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+<span style="color:brown">**About me**</span>
 ======
 I am presently a PhD candidate at Department of Electrical & Computer Engineering in Iowa State University, USA. I am currently working on the straggler issue in distributed computation under the supervision of Professor [**Aditya Ramamoorthy**](https://www.ece.iastate.edu/adityar/). 
 
