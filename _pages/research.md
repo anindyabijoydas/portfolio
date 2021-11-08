@@ -6,6 +6,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+<style type="text/css">
+  body {
+    background-color: #F0FFFF;
+  }
+</style>
 
 <span style="color:brown">**Straggler mitigation in distributed computation**</span>
 ======
