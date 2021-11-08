@@ -9,8 +9,8 @@ redirect_from:
 
 <span style="color:brown">**Work Experiences**</span>
 ======
-* **Research Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2019 - Present)
+* <span style="color:blue">**Research Assistant**</span> <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2019 - Present)
 
-* **Teaching Assistant** <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019)
+* <span style="color:blue">**Teaching Assistant**</span> <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019)
 
-* **Lecturer** <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016)
+* <span style="color:blue">**Lecturer**</span> <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016)
