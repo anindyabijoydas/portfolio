@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-Awards
+<span style="color:brown">**Awards**</span>
 ======
 * [**Teaching Excellence Award**,](https://drive.google.com/file/d/1tMAKjTcr7XTrSTiW3s3duJ7lgPGsW2Pg/view) <br/> Electrical and Computer Engineering, <br/> Iowa State University, Fall 2020.
 
