@@ -15,6 +15,10 @@ redirect_from:
 * Linear Algebra
 * Statistical Machine Learning
 * Convex Optimization 
+* Detection and Estimation Theory 
+* Abstract Algebra
+* Probability and Statistics
+* Real Analysis 
 
 <br />
 
