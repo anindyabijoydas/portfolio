@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<span style="color:purple">**Straggler mitigation in distributed computation**</span>]
+<span style="color:brown">**Straggler mitigation in distributed computation**</span>
 ======
 In my PhD research in Iowa State University under the supervision of Professor Aditya Ramamoorthy, I am working on the straggler issue in distributed computations, specifically for distributed matrix-matrix multiplication. Usually the large-scale matrix multiplication is done over the cluster consisting of several worker nodes, some of which may be significantly slower than others. These slower nodes are called stragglers, and we have developed novel schemes which treat the stragglers efficiently to have a fast and numerically stable distributed computation system. The corresponding publications include-
 
@@ -25,7 +25,7 @@ In my PhD research in Iowa State University under the supervision of Professor A
 <br /> <br />
 
 
-[<span style="color:purple">**Detection of epilepsy and epileptogenic zones**</span>]
+<span style="color:brown">**Detection of epilepsy and epileptogenic zones**</span>
 ======
 In my research in Bangladesh University of Engineering and Technology under the supervision of Professor Mohammed Imamul Hassan Bhuiyan, I have worked on classification of EEG data, specifically on the detection of seizure and the epileptogenic zones of the brain. I have worked on publicly available real-time EEG data and extracted suitable features in different time-frequency domains to classify the EEG data. The corresponding publications include-
 
