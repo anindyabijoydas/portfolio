@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-Graduate Courses
+<span style="color:brown">**Graduate Courses**</span>
 ======
 * Deep Machine Learning
 * Non-linear Programming
@@ -19,7 +19,7 @@ Graduate Courses
 <br />
 
 
-Academic Projects
+<span style="color:brown">**Academic Projects**</span>
 ======
 * **Image recognition from CIFAR-10 dataset using deep residual learning**
   * Implemented convolutional neural network in TensorFlow using GPU
