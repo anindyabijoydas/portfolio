@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching Career
+<span style="color:brown">**Teaching Career**</span>
 ======
 
 * **Preparing Future Faculty Associate** <br/> Certified by Iowa State University, 2020
