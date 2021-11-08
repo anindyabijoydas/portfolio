@@ -5,6 +5,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style type="text/css">
+  body {
+    background-color: #F0FFFF;
+  }
+</style>
 
 <span style="color:brown">**About me**</span>
 ======
