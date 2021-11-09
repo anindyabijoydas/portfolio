@@ -13,7 +13,7 @@ redirect_from:
 
 <span style="color:brown">**About me**</span>
 ======
-I am presently a PhD candidate at Department of Electrical & Computer Engineering in Iowa State University, USA. I am currently working on the straggler issue in distributed computation under the supervision of Professor [<span style="color: #00008B">**Aditya Ramamoorthy**</span>](https://www.ece.iastate.edu/adityar/). 
+I am presently a PhD candidate at Department of Electrical & Computer Engineering in Iowa State University, USA. I am currently working on straggler mitigation in distributed computation under the supervision of Professor [<span style="color: #00008B">**Aditya Ramamoorthy**</span>](https://www.ece.iastate.edu/adityar/). 
 
 My research interests include-
   * Distributed computation
