@@ -22,4 +22,4 @@ redirect_from:
 
 * <span style="color:blue">**Lecturer**</span> <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016) <br/> Conducted courses: Numerical Methods, DSP, C, Electronics etc.
 
-* <span style="color:blue">**Volunteer Tutor**</span> <br/> Cymath-kids, led by Professor Dr. Namrata Vaswani <br/> Iowa State University <br/> Teaching Mathematics to the 4th grade kids 
+* <span style="color:blue">**Volunteer Tutor**</span> <br/> Cymath-kids, led by Professor [<span style="color: #00008B">Namrata Vaswani</span>](https://www.ece.iastate.edu/~namrata/) <br/> Iowa State University <br/> Teaching Mathematics to the 4th grade kids 
