@@ -14,6 +14,8 @@ redirect_from:
 
 <span style="color:brown">**Awards**</span>
 ======
+* <span style="color: #00008B">**Research Excellence Award**</span> <br/> Electrical and Computer Engineering, <br/> Iowa State University, Fall 2021.
+
 * [<span style="color: #00008B">**Teaching Excellence Award**</span>](https://drive.google.com/file/d/1tMAKjTcr7XTrSTiW3s3duJ7lgPGsW2Pg/view) <br/> Electrical and Computer Engineering, <br/> Iowa State University, Fall 2020.
 
 * [<span style="color: #00008B">**National Champion**</span>](https://www.dropbox.com/s/cwqh22t4f14zu4u/champ.png?dl=0) <br/> Bangladesh Mathematical Olympiad, 2008.
