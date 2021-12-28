@@ -29,9 +29,8 @@ In my PhD research in Iowa State University under the supervision of Professor A
 
 * **Under Review**
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**Coded sparse matrix computation schemes that leverage partial stragglers**'',](https://arxiv.org/abs/2012.06065) under review. [<span style="color:blue">**Download paper**.</span>](https://www.dropbox.com/s/qdstmozj03gxtpw/sparse.pdf?dl=0) <br />
-<br /> <br />
    * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''**A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation**''](https://arxiv.org/abs/2109.12070) under review. [<span style="color:blue">**Download paper**.</span>](https://www.dropbox.com/s/7f2c76dtqas4k07/jsait.pdf?dl=0) 
-
+<br /> <br />
 
 <span style="color:brown">**Detection of epilepsy and epileptogenic zones**</span>
 ======
