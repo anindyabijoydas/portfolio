@@ -14,7 +14,7 @@ redirect_from:
 
 <span style="color:brown">**Education**</span>
 ======
-* <span style="color:blue">**Ph.D. candidate**</span> in **Electrical Engineering** <br /> Major Professor: Aditya Ramamoorthy <br /> Minor: Mathematics <br /> Iowa State University, May 2022 (expected)
+* <span style="color:blue">**Ph.D.**</span> in **Electrical Engineering** <br /> Major Professor: Aditya Ramamoorthy <br /> Minor: Mathematics <br /> Iowa State University, Spring 2022
 
 * <span style="color:blue">**M. Eng.**</span> in **Electrical Engineering** <br /> Iowa State University, August 2018
 
