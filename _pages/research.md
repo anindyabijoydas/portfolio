@@ -10,6 +10,10 @@ redirect_from:
   body {
     background-color: #F0FFFF;
   }
+  div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 </style>
 
 <span style="color:brown">**Straggler mitigation in distributed computation**</span>
@@ -17,7 +21,7 @@ redirect_from:
 In my PhD research in Iowa State University under the supervision of Professor Aditya Ramamoorthy, I am working on the straggler issue in distributed computations, specifically for distributed matrix-matrix multiplication. Usually the large-scale matrix multiplication is done over the cluster consisting of several worker nodes, some of which may be significantly slower than others. These slower nodes are called stragglers, and we have developed novel schemes which treat the stragglers efficiently to have a fast and numerically stable distributed computation system. The corresponding publications include-
 
 * **Journal Papers**
-  * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation''](https://ieeexplore.ieee.org/document/9810006) in <span style="color:brown">**IEEE Journal on Selected Areas in Information Theory**</span> (to appear), June 2022. [<span style="color:blue">**paper**.</span>](https://www.dropbox.com/s/x7rfzpff0g31w10/2109.12070.pdf?dl=0) [<span style="color:red">**codes**.</span>](https://github.com/anindyabijoydas/UnifiedTreatment)
+  * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation''](https://ieeexplore.ieee.org/document/9810006) in <span style="color:brown">**IEEE Journal on Selected Areas in Information Theory**</span>, June 2022. [<span style="color:blue">**paper**.</span>](https://www.dropbox.com/s/x7rfzpff0g31w10/2109.12070.pdf?dl=0) [<span style="color:red">**codes**.</span>](https://github.com/anindyabijoydas/UnifiedTreatment)
   * **Anindya Bijoy Das** and Aditya Ramamoorthy, [''Coded sparse matrix computation schemes that leverage partial stragglers'',](https://ieeexplore.ieee.org/document/9717254) in <span style="color:brown">**IEEE Transactions on Information Theory**</span>, vol. 68, no. 6, pp. 4156-4181, 2022. [<span style="color:blue">**paper**.</span>](https://www.dropbox.com/s/v9sh9ozqe37afw6/coded_sp.pdf?dl=0)  [<span style="color:red">**codes**.</span>](https://github.com/anindyabijoydas/LeveragePartialStragglers)
    * **Anindya Bijoy Das**, Aditya Ramamoorthy, Namrata Vaswani, [''Efficient and Robust Distributed Matrix Computations via Convolutional Coding''](https://ieeexplore.ieee.org/abstract/document/9478901) in <span style="color:brown">**IEEE Transactions on Information Theory**</span>, vol. 67, no. 9, pp. 6266-6282, Sept. 2021. [<span style="color:blue">**paper**.</span>](https://www.dropbox.com/s/jor6hn9lkdba62c/ittrans.pdf?dl=0) [<span style="color:red">**codes**.</span>](https://github.com/anindyabijoydas/StragglerMitigateConvCodes)
    * Aditya Ramamoorthy, **Anindya Bijoy Das**, Li Tang, [''Straggler-Resistant Distributed Matrix Computation via Coding Theory: Removing a Bottleneck in Large-Scale Data Processing''](https://ieeexplore.ieee.org/abstract/document/9084368) in <span style="color:brown">**IEEE Signal Processing Magazine**</span>, vol. 37, no. 3, pp. 136-145, May 2020. [<span style="color:blue">**paper**.</span>](https://www.dropbox.com/s/48di7uhogpsv49k/spmag.pdf?dl=0)
