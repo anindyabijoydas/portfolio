@@ -9,6 +9,10 @@ redirect_from:
   body {
     background-color: #F0FFFF;
   }
+  div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 </style>
 
