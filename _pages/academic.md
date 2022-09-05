@@ -13,22 +13,6 @@ redirect_from:
   }
 </style>
 
-<span style="color:brown">**Graduate Courses**</span>
-======
-* Deep Machine Learning
-* Non-linear Programming
-* Data Analytics 
-* Linear Algebra
-* Statistical Machine Learning
-* Convex Optimization 
-* Detection and Estimation Theory 
-* Abstract Algebra
-* Probability and Statistics
-* Real Analysis 
-
-<br />
-
-
 <span style="color:brown">**Academic Projects**</span>
 ======
 * **Image recognition from CIFAR-10 dataset using deep residual learning**
@@ -66,3 +50,9 @@ redirect_from:
 * **Designing one-digit calculator using digital logic design**
   * Designing the multiplication and division schemes with 74-series ICs
   * Designing an efficient method to take inputs and show outputs
+
+<br />
+
+<span style="color:brown">**Graduate Courses**</span>
+======
+* Deep Machine Learning, Non-linear Programming, Data Analytics, Linear Algebra, Statistical Machine Learning, Convex Optimization, Detection and Estimation Theory, Abstract Algebra, Probability and Statistics, Real Analysis.
