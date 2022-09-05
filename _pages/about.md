@@ -23,5 +23,5 @@ Before that I completed my PhD in spring 2022 from the department of Electrical 
 * <span style="color:blue">**Partial Stragglers**</span> <br /> An approach based on cyclic code <br /> Efficient utilization of the slower nodes
 
 
-My research interests include distributed computation, deep machine learning, signal processing, quantum computation etc. My detailed CV can be found [<span style="color: #00008B">**here**</span>](https://www.dropbox.com/s/nlraokzqoc5sm48/Anindya_Bijoy_Das_CV.pdf?dl=0).
+My research interests include distributed computation, federated learning, deep machine learning, signal processing etc. My detailed CV can be found [<span style="color: #00008B">**here**</span>](https://www.dropbox.com/s/nlraokzqoc5sm48/Anindya_Bijoy_Das_CV.pdf?dl=0).
   
