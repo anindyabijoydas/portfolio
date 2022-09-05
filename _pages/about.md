@@ -9,9 +9,7 @@ redirect_from:
   body {
     background-color: #F0FFFF;
   }
-  p.main {
-    text-align: justify;
-}
+
 </style>
 
 <span style="color:brown">**About me**</span>
