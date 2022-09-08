@@ -16,7 +16,7 @@ redirect_from:
 ======
 * [<span style="color: #00008B">**Karas Award**</span>](https://www.dropbox.com/s/9ja0s2neh3rgw02/Anindya%20Bijoy%20Das%20Karas.pdf?dl=0) <br/> Outstanding Dissertation in the Mathematical and Physical Sciences and Engineering <br/> Iowa State University, 2022.
 
-* <span style="color: #00008B">**Research Excellence Award**</span> <br/> Electrical and Computer Engineering, <br/> Iowa State University, Fall 2021.
+* [<span style="color: #00008B">**Research Excellence Award**</span>](https://www.dropbox.com/s/kgn1r5njpj4t01o/rea.jpg?dl=0) Electrical and Computer Engineering, <br/> Iowa State University, Fall 2021.
 
 * [<span style="color: #00008B">**Teaching Excellence Award**</span>](https://drive.google.com/file/d/1tMAKjTcr7XTrSTiW3s3duJ7lgPGsW2Pg/view) <br/> Electrical and Computer Engineering, <br/> Iowa State University, Fall 2020.
 
