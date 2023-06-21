@@ -12,6 +12,10 @@ redirect_from:
   }
 </style>
 
+<span style="color:brown">**Research Grant**</span>
+======
+* [<span style="color: #00008B">**A grant of $73,000**</span>](https://www.dropbox.com/s/n7pppb9rhl7y14n/pes_aci.png?dl=0) <br/> To conduct research on AI tensor computations in edge network <br/> Awarded by Autonomous and Connected Systems of Purdue Engineering Initiatives.
+
 <span style="color:brown">**Awards**</span>
 ======
 * [<span style="color: #00008B">**Karas Award**</span>](https://www.dropbox.com/s/9ja0s2neh3rgw02/Anindya%20Bijoy%20Das%20Karas.pdf?dl=0) <br/> Outstanding Dissertation in the Mathematical and Physical Sciences and Engineering <br/> Iowa State University, 2022.
