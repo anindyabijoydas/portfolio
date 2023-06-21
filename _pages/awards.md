@@ -14,7 +14,7 @@ redirect_from:
 
 <span style="color:brown">**Research Grant**</span>
 ======
-* [<span style="color: #00008B">**A grant of $73,000**</span>](https://www.dropbox.com/s/n7pppb9rhl7y14n/pes_aci.png?dl=0) <br/> To conduct research on AI tensor computations in edge network <br/> Awarded by Autonomous and Connected Systems of Purdue Engineering Initiatives.
+* [<span style="color: #00008B">**A Grant of $73,000**</span>](https://www.dropbox.com/s/n7pppb9rhl7y14n/pes_aci.png?dl=0) <br/> To conduct research on AI tensor computations in edge network <br/> Awarded by Autonomous and Connected Systems of Purdue Engineering Initiatives.
 
 <span style="color:brown">**Awards**</span>
 ======
