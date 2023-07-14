@@ -18,7 +18,7 @@ redirect_from:
 
 <span style="color:brown">**Manuscripts Under Review**</span>
 ======
-   * <b>Anindya Bijoy Das</b>, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.12685)
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.12685)
    * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.04774)
 
 
@@ -38,9 +38,9 @@ redirect_from:
 
 <span style="color:brown">**Selected Conference Papers**</span>
 ======
-   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', **IEEE International Symposium on Information Theory (ISIT)**, 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.12685)
-   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Coded Matrix Computations for D2D-Enabled Linearized Federated Learning'' in **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10095450) 
-   * Anindya Bijoy Das and Aditya Ramamoorthy, ''An Integrated Method to Deal With Partial Stragglers and Sparse Matrices in Distributed Computations'', **IEEE International Symposium on Information Theory (ISIT)**, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9834346)
-   * Anindya Bijoy Das and Aditya Ramamoorthy, ''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation'' in **IEEE Information Theory Workshop (ITW)**, 2021. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9611400) 
-   * Anindya Bijoy Das and Aditya Ramamoorthy, ''Distributed matrix-vector multiplication: A convolutional coding approach'', in **IEEE International Symposium on Information Theory (ISIT)**,  2019. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/8849395) 
-   * Anindya Bijoy Das, Aditya Ramamoorthy and Li Tang, ''C3LES : Codes for Coded Computation that Leverage Stragglers'', in **IEEE Information Theory Workshop (ITW)**, 2018. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/8613321)
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', **IEEE Intl. Symp. on Info. Theory (ISIT)**, 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.12685)
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Coded Matrix Computations for D2D-Enabled Linearized Federated Learning'' in **IEEE Intl.Conf. on Acoustics, Speech and Signal Proc. (ICASSP)**, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10095450) 
+   * Anindya Bijoy Das and Aditya Ramamoorthy, ''An Integrated Method to Deal With Partial Stragglers and Sparse Matrices in Distributed Computations'', **IEEE Intl. Symp. on Info. Theory (ISIT)**, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9834346)
+   * Anindya Bijoy Das and Aditya Ramamoorthy, ''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation'' in **IEEE Info.Theory Workshop (ITW)**, 2021. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9611400) 
+   * Anindya Bijoy Das and Aditya Ramamoorthy, ''Distributed matrix-vector multiplication: A convolutional coding approach'', in **IEEE Intl. Symp. on Info. Theory (ISIT)**,  2019. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/8849395) 
+   * Anindya Bijoy Das, Aditya Ramamoorthy and Li Tang, ''C3LES : Codes for Coded Computation that Leverage Stragglers'', in **IEEE Info. Theory Workshop (ITW)**, 2018. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/8613321)
