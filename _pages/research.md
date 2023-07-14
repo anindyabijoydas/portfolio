@@ -16,6 +16,14 @@ redirect_from:
 }
 </style>
 
+<span style="color:brown">**Manuscripts Under Review**</span>
+======
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David Love and Christopher Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.12685)
+   * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J Love, Christopher G Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.04774)
+
+
+<br /> 
+
 <span style="color:brown">**Selected Journals**</span>
 ======
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation'' in **IEEE Journal on Selected Areas in Information Theory**, vol. 3, no. 2, pp. 241-256, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9810006) 
@@ -26,11 +34,10 @@ redirect_from:
    * Anindya Bijoy Das and Mohammed Imamul Hassan Bhuiyan, ''Discrimination and classification of focal and non-focal EEG signals using entropy-based features in the EMD-DWT domain'', in **Biomedical Signal Processing and Control**, Elsevier, vol. 29, pp. 11-21, 2016. [<span style="color:blue">**paper**.</span>](https://www.sciencedirect.com/science/article/abs/pii/S1746809416300465) 
    * Anindya Bijoy Das, Mohammed Imamul Hassan Bhuiyan and S M Shafiul Alam, ''Classification of EEG signals using normal inverse Gaussian parameters in the dual-tree complex wavelet transform domain for seizure detection'', in **Signal, Image and Video Processing** , Springer, vol. 10, issue 2, pp. 259-266, 2016. [<span style="color:blue">**paper**.</span>](https://link.springer.com/article/10.1007%2Fs11760-014-0736-2)
 
-<br /> <br />
+<br /> 
 
 <span style="color:brown">**Selected Conference Papers**</span>
 ======
-
    * Anindya Bijoy Das, Aditya Ramamoorthy, David Love and Christopher Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', **IEEE International Symposium on Information Theory (ISIT)**, 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.12685)
    * Anindya Bijoy Das, Aditya Ramamoorthy, David Love and Christopher Brinton, ''Coded Matrix Computations for D2D-Enabled Linearized Federated Learning'' in **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10095450) 
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''An Integrated Method to Deal With Partial Stragglers and Sparse Matrices in Distributed Computations'', **IEEE International Symposium on Information Theory (ISIT)**, pp. 1010-1015, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9834346)
