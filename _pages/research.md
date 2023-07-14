@@ -18,8 +18,8 @@ redirect_from:
 
 <span style="color:brown">**Manuscripts Under Review**</span>
 ======
-   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.12685)
-   * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', 2023. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2301.04774)
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.12685)
+   * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.04774)
 
 
 <br /> 
