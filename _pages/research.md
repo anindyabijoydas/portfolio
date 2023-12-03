@@ -29,7 +29,7 @@ redirect_from:
 
 <span style="color:brown">**Selected Journals**</span>
 ======
-   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', in **IEEE Jour. on Selected Areas in Info. Theory**, 2023. [<span style="color:blue">**Paper**.</span>](https://arxiv.org/abs/2301.12685)
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', in **IEEE Jour. on Selected Areas in Info. Theory**, vol. 4, pp. 363-378, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/10234626) 
    * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', in **IEEE Jour. on Selected Areas in Communications**, 2023. [<span style="color:blue">**Paper**.</span>](https://arxiv.org/abs/2301.04774)
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation'' in **IEEE Jour. on Selected Areas in Info. Theory**, vol. 3, pp. 241-256, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9810006) 
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''Coded sparse matrix computation schemes that leverage partial stragglers'', in **IEEE Trans. on Info. Theory**, vol. 68, pp. 4156-4181, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9717254)  
