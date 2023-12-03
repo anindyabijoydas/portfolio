@@ -9,7 +9,7 @@ redirect_from:
   body {
     background-color: #F0FFFF;
     font-family: 'Times New Roman' !important;
-    font-weight: 500;
+    font-weight: 600;
   }
 div {
   text-align: justify;
