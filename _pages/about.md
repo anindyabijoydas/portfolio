@@ -8,7 +8,7 @@ redirect_from:
 <style type="text/css">
   body {
     background-color: #F0FFFF;
-    font-family: 'Arial' !important;
+    font-family: 'Times New Roman' !important;
     font-weight: 500;
   }
 div {
