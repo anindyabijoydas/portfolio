@@ -10,6 +10,8 @@ redirect_from:
 <style type="text/css">
   body {
     background-color: #F0FFFF;
+    font-family: 'Arial' !important;
+    font-weight: 500;
   }
 </style>
 
