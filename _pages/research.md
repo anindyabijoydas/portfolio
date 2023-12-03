@@ -9,6 +9,8 @@ redirect_from:
 <style type="text/css">
   body {
     background-color: #F0FFFF;
+    font-family: 'Arial' !important;
+    font-weight: 500;
   }
   div {
   text-align: justify;
@@ -18,14 +20,17 @@ redirect_from:
 
 <span style="color:brown">**Manuscripts Under Review**</span>
 ======
-   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.12685)
-   * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', 2023. [<span style="color:blue">**Arxiv Version**.</span>](https://arxiv.org/abs/2301.04774)
+   * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2023. 
+   * Myeung Suk Oh, Anindya Bijoy Das, Taejoon Kim, David J. Love, Christopher G. Brinton, ''Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning'', 2023.
+   * Junghoon Kim, Taejoon Kim, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J. Love, and Christopher G. Brinton, ''Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches'', 2023.
 
 
 <br /> 
 
 <span style="color:brown">**Selected Journals**</span>
 ======
+   * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', in **IEEE Jour. on Selected Areas in Info. Theory**, 2023. [<span style="color:blue">**Paper**.</span>](https://arxiv.org/abs/2301.12685)
+   * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', in **IEEE Jour. on Selected Areas in Communications**, 2023. [<span style="color:blue">**Paper**.</span>](https://arxiv.org/abs/2301.04774)
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation'' in **IEEE Jour. on Selected Areas in Info. Theory**, vol. 3, pp. 241-256, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9810006) 
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''Coded sparse matrix computation schemes that leverage partial stragglers'', in **IEEE Trans. on Info. Theory**, vol. 68, pp. 4156-4181, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9717254)  
    * Anindya Bijoy Das, Aditya Ramamoorthy, Namrata Vaswani, ''Efficient and Robust Distributed Matrix Computations via Convolutional Coding'', in **IEEE Trans. on Info. Theory**, vol. 67, pp. 6266-6282, 2021. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/9478901) 
