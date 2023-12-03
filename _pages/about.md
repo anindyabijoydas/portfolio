@@ -8,7 +8,8 @@ redirect_from:
 <style type="text/css">
   body {
     background-color: #F0FFFF;
-    font-family: 'American Typewriter' !important;
+    font-family: 'Arial' !important;
+    font-weight: 500;
   }
 div {
   text-align: justify;
