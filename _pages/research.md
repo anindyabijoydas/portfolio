@@ -20,6 +20,7 @@ redirect_from:
 
 <span style="color:brown">**Manuscripts Under Review**</span>
 ======
+   * Satyavrat Wagle, Anindya Bijoy Das, David J Love, Christopher G Brinton, ''Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning'', 2024. 
    * David Nickel, Anindya Bijoy Das, David Love and Christopher G. Brinton, ''Multi-Agent Hybrid Soft Actor-Critic for Joint Spectrum Sensing and Dynamic Spectrum Access in Cognitive Radio Networks'', 2024. 
    * Anindya Bijoy Das, Aditya Ramamoorthy, David Love and Christopher G. Brinton, ''Sparsity-Preserving Encodings for Straggler-Optimal Distributed Matrix Computations at the Edge'', 2024. 
    * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2023. 
@@ -30,7 +31,8 @@ redirect_from:
 
 <span style="color:brown">**Selected Journals**</span>
 ======
-   * Myeung Suk Oh, Anindya Bijoy Das, Taejoon Kim, David J. Love, Christopher G. Brinton, ''Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning'', in **IEEE Jour. on Selected Areas in Communications**, 2024. [<span style="color:blue">**Paper**.</span>](https://arxiv.org/abs/2404.15374)
+   * Myeung Suk Oh, Anindya Bijoy Das, Taejoon Kim, David J. Love, Christopher G. Brinton, ''Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning'', in **IEEE Jour. on Selected Areas in Communications**, 2024. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10556712)
+   * Ashwin Natraj Arun, Anindya Bijoy Das, Christopher G Brinton, David J Love, James V Krogmeier ''Do Small Cells Make Sense for Simple Low Cost LPWANs?'', in **IEEE Wireless Communications Letters**, 2024. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382)
    * Anindya Bijoy Das, Aditya Ramamoorthy, David J. Love and Christopher G. Brinton, ''Distributed Matrix Computations with Low-weight Encodings'', in **IEEE Jour. on Selected Areas in Info. Theory**, vol. 4, pp. 363-378, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/10234626) 
    * Myeung Suk Oh, Anindya Bijoy Das, Seyyedali Hosseinalipour, Taejoon Kim, David J. Love, Christopher G. Brinton, ''A Decentralized Pilot Assignment Methodology for Scalable O-RAN Cell-Free Massive MIMO'', in **IEEE Jour. on Selected Areas in Communications**, 2023. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10330597)
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation'' in **IEEE Jour. on Selected Areas in Info. Theory**, vol. 3, pp. 241-256, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9810006) 
