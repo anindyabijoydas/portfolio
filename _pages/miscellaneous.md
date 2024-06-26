@@ -29,11 +29,13 @@ redirect_from:
 * in IEEE Journal of Biomedical and Health Informatics
 * in IEEE Transactions on  Communications
 * in IEEE Access
+* in IEEE Transactions on  Mobile Computing
   
 <span style="color:brown">**Professional Member**</span>
 ======
-* IEEE Student Member, since 2019
-* Information Theory Society, since 2019
+* IEEE Member
+* IEEE Information Theory Society
+* IEEE Signal Processing Society
   
 <span style="color:brown">**Others**</span>
 ======
