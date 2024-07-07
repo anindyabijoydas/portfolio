@@ -30,6 +30,7 @@ redirect_from:
 * in IEEE Transactions on  Communications
 * in IEEE Access
 * in IEEE Transactions on  Mobile Computing
+* in IEEE Transactions on Networking
   
 <span style="color:brown">**Professional Member**</span>
 ======
