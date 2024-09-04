@@ -14,10 +14,12 @@ redirect_from:
 
 <span style="color:brown">**Work Experiences**</span>
 ======
-* <span style="color:blue">**Postdoctoral Researcher**</span> <br/> Electrical and Computer Engineering <br/> Purdue University (May 2022 - Present)
+* <span style="color:blue">**Assistant Professor**</span> (August 2024 - Present) <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA 
 
-* <span style="color:blue">**Research Assistant**</span> <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2019 - May 2022)
+* <span style="color:blue">**Postdoctoral Researcher**</span> (May 2022 - August 2024) <br/> Electrical and Computer Engineering <br/> Purdue University, IN, USA 
 
-* <span style="color:blue">**Teaching Assistant**</span> <br/> Electrical and Computer Engineering <br/> Iowa State University (August 2016 - August 2019)
+* <span style="color:blue">**Research Assistant**</span> (August 2019 - May 2022) <br/> Electrical and Computer Engineering <br/> Iowa State University, IA, USA 
 
-* <span style="color:blue">**Lecturer**</span> <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016)
+* <span style="color:blue">**Teaching Assistant**</span> (August 2016 - August 2019) <br/> Electrical and Computer Engineering <br/> Iowa State University, IA, USA 
+
+* <span style="color:blue">**Lecturer**</span> (February 2015 - July 2016) <br/> Electrical and Computer Engineering <br/> Presidency University, Dhaka, Bangladesh 
