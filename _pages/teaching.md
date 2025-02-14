@@ -16,7 +16,7 @@ redirect_from:
 <span style="color:brown">**Teaching Career**</span>
 ======
 
-* <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/> Conducted courses: Digital Communication (Fall -2024).
+* <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/> Conducted courses: Wireless Communications (Spring -2025), Digital Communication (Fall -2024).
 
 * <span style="color:blue">**Lecturer**</span> <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016) <br/> Conducted courses: Numerical Methods, DSP, C, Electronics etc.
 
