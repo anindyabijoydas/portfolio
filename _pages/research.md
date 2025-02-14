@@ -20,7 +20,9 @@ redirect_from:
 
 <span style="color:brown">**Manuscripts Under Review**</span>
 ======
-   * Satyavrat Wagle, Anindya Bijoy Das, David J Love, Christopher G Brinton, ''Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning'', 2024. 
+   * Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J Love and Christopher G Brinton, ''Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning'', 2025. 
+   * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Unveiling and Mitigating Bias in Large Language Model Recommendations: A Path to Fairness'', 2024. 
+   * Satyavrat Wagle, Anindya Bijoy Das, David J Love and Christopher G Brinton, ''Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning'', 2024. 
    * David Nickel, Anindya Bijoy Das, David Love and Christopher G. Brinton, ''Multi-Agent Hybrid Soft Actor-Critic for Joint Spectrum Sensing and Dynamic Spectrum Access in Cognitive Radio Networks'', 2024. 
    * Anindya Bijoy Das, Aditya Ramamoorthy, David Love and Christopher G. Brinton, ''Sparsity-Preserving Encodings for Straggler-Optimal Distributed Matrix Computations at the Edge'', 2024. 
    * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2023. 
@@ -46,6 +48,8 @@ redirect_from:
 
 <span style="color:brown">**Selected Conference Papers**</span>
 ======
+   * Shahnewaz Karim Sakib and Anindya Bijoy Das, ''Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations'', in **IEEE International Conference on Big Data (BigData)**, 2024. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10825082)
+   * Shahnewaz Karim Sakib and Anindya Bijoy Das, ''Explainable Vertical Federated Learning for Healthcare: Ensuring Privacy and Optimal Accuracy'' in **IEEE International Conference on Big Data (BigData)**, 2024. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10825564)
    * Seohyun Lee, Anindya Bijoy Das, Satyavrat Wagle, Christopher G Brinton, ''Smart Information Exchange for Unsupervised Federated Learning via Reinforcement Learning'', **IEEE International Conference on Communications (ICC)**, 2024. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2402.09629)
    * Anindya Bijoy Das, Aditya Ramamoorthy, David J Love, Christopher G Brinton, ''Preserving Sparsity and Privacy in Straggler-Resilient Distributed Matrix Computations'' in **Annual Allerton Conference on Communication, Control, and Computing (Allerton)**, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10313473)
    * Satyavrat Wagle, Anindya Bijoy Das, David J Love, Christopher G Brinton, ''A Reinforcement Learning-Based Approach to Graph Discovery in D2D-Enabled Federated Learning'', **IEEE Global Communications Conference (GlobeCom)**, 2023. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10437633)
