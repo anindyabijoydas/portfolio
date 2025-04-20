@@ -18,16 +18,7 @@ redirect_from:
 }
 </style>
 
-<span style="color:brown">**Manuscripts Under Review**</span>
-======
-   * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Breaking the Shield: Vulnerabilities in Content Moderation for Multimodal Language Models'', 2025. 
-   * Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J Love and Christopher G Brinton, ''Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning'', 2025. 
-   * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Unveiling and Mitigating Bias in Large Language Model Recommendations: A Path to Fairness'', 2024. 
-   * David Nickel, Anindya Bijoy Das, David Love and Christopher G. Brinton, ''Multi-Agent Hybrid Soft Actor-Critic for Joint Spectrum Sensing and Dynamic Spectrum Access in Cognitive Radio Networks'', 2024. 
-   * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2023. 
 
-
-<br /> 
 
 <span style="color:brown">**Selected Journals**</span>
 ======
@@ -59,3 +50,13 @@ redirect_from:
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''An Integrated Method to Deal With Partial Stragglers and Sparse Matrices in Distributed Computations'', **IEEE Intl. Symp. on Info. Theory (ISIT)**, 2022. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/document/9834346)
    * Anindya Bijoy Das and Aditya Ramamoorthy, ''Distributed matrix-vector multiplication: A convolutional coding approach'', in **IEEE Intl. Symp. on Info. Theory (ISIT)**,  2019. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/8849395) 
    * Anindya Bijoy Das, Aditya Ramamoorthy and Li Tang, ''C3LES : Codes for Coded Computation that Leverage Stragglers'', in **IEEE Info. Theory Workshop (ITW)**, 2018. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/8613321)
+
+<br /> 
+
+<span style="color:brown">**Manuscripts Under Review**</span>
+======
+   * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Breaking the Shield: Vulnerabilities in Content Moderation for Multimodal Language Models'', 2025. 
+   * Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J Love and Christopher G Brinton, ''Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning'', 2025. 
+   * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Unveiling and Mitigating Bias in Large Language Model Recommendations: A Path to Fairness'', 2024. 
+   * David Nickel, Anindya Bijoy Das, David Love and Christopher G. Brinton, ''Multi-Agent Hybrid Soft Actor-Critic for Joint Spectrum Sensing and Dynamic Spectrum Access in Cognitive Radio Networks'', 2024. 
+   * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2023. 
