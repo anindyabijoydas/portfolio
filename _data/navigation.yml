@@ -6,15 +6,12 @@ main:
   - title: "Education"
     url: /education/    
     
-  - title: "Research Publications"
+  - title: "Publications"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Academic"
-    url: /academic/
-  
+      
   - title: "Awards"
     url: /awards/
     
