@@ -210,6 +210,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      css: "assets/css/custom.css"
   # _teaching
   - scope:
       path: ""
