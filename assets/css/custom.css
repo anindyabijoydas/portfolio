@@ -1,5 +1,5 @@
 /* Make top menu headers bold and colored */
 nav a, .site-nav a {
   font-weight: bold;
-  color: #007acc !important;  /* You can change this color */
+  color: #007acc;  /* You can change this color */
 }
