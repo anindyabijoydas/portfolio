@@ -22,8 +22,9 @@ redirect_from:
 
 <span style="color:brown">**Selected Journals**</span>
 ======
-   * Junghoon Kim, Taejoon Kim, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J. Love, and Christopher G. Brinton, ''Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches'',  in **IEEE Transactions on Information Theory**, 2025.
-   * Satyavrat Wagle, Anindya Bijoy Das, David J Love and Christopher G Brinton, ''Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning'',  in **IEEE Journal of Selected Topics in Signal Processing**, 2025. 
+   * David R. Nickel, Anindya Bijoy Das, David J. Love, and Christopher G. Brinton, ''Learning-Based Two-Way Communications: Algorithmic Framework and Comparative Analysis'',  in **IEEE Communications Letters**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/document/11078395)
+   * Junghoon Kim, Taejoon Kim, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J. Love, and Christopher G. Brinton, ''Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches'',  in **IEEE Transactions on Information Theory**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10981735)
+   * Satyavrat Wagle, Anindya Bijoy Das, David J Love and Christopher G Brinton, ''Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning'',  in **IEEE Journal of Selected Topics in Signal Processing**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10972233)
    * Myeung Suk Oh, Anindya Bijoy Das, Taejoon Kim, David J. Love, Christopher G. Brinton, ''Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning'', in **IEEE Journal on Selected Areas in Communications**, 2024. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10556712)
    * Anindya Bijoy Das, Aditya Ramamoorthy, David J Love and Christopher G Brinton ''Sparsity-preserving encodings for straggler-optimal distributed matrix computations at the edge'', in **IEEE Internet of Things Journal**, 2024. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10633712)
    * Ashwin Natraj Arun, Anindya Bijoy Das, Christopher G Brinton, David J Love, James V Krogmeier ''Do Small Cells Make Sense for Simple Low Cost LPWANs?'', in **IEEE Wireless Communications Letters**, 2024. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382)
@@ -40,7 +41,8 @@ redirect_from:
 
 <span style="color:brown">**Selected Conference Papers**</span>
 ======
-   * Shahnewaz Karim Sakib, Anindya Bijoy Das and Shibbir Ahmed, ''Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models'', in **Trustworthy Natural Language Processing (TrustNLP)**, Colocated with NAACL, 2025.
+   * Shibbir Ahmed, Shahnewaz Karim Sakib and Anindya Bijoy Das, ''Can Large Language Models Challenge CNNs in Medical Image Analysis?'', in **IEEE International Conference on Image Processing (ICIP)**, 2025.
+   * Shahnewaz Karim Sakib, Anindya Bijoy Das and Shibbir Ahmed, ''Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models'', in **Trustworthy Natural Language Processing (TrustNLP)**, Colocated with NAACL, 2025.  [<span style="color:blue">**paper**.</span>](https://aclanthology.org/2025.trustnlp-main.28/)
    * Shahnewaz Karim Sakib and Anindya Bijoy Das, ''Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations'', in **IEEE International Conference on Big Data (BigData)**, 2024. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10825082)
    * Shahnewaz Karim Sakib and Anindya Bijoy Das, ''Explainable Vertical Federated Learning for Healthcare: Ensuring Privacy and Optimal Accuracy'' in **IEEE International Conference on Big Data (BigData)**, 2024. [<span style="color:blue">**paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10825564)
    * Seohyun Lee, Anindya Bijoy Das, Satyavrat Wagle, Christopher G Brinton, ''Smart Information Exchange for Unsupervised Federated Learning via Reinforcement Learning'', **IEEE International Conference on Communications (ICC)**, 2024. [<span style="color:blue">**paper**.</span>](https://arxiv.org/abs/2402.09629)
@@ -55,6 +57,7 @@ redirect_from:
 
 <span style="color:brown">**Manuscripts Under Review**</span>
 ======
+   * Myeung Suk Oh, Anindya Bijoy Das, Taejoon Kim, Jia Liu, David Love and Christopher G. Brinton, ''Energy-Aware Federated Learning for Positioning: Joint Client Selection and Resource Allocation via Deep Reinforcement Learning'', 2025. 
    * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Breaking the Shield: Vulnerabilities in Content Moderation for Multimodal Language Models'', 2025. 
    * Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J Love and Christopher G Brinton, ''Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning'', 2025. 
    * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Unveiling and Mitigating Bias in Large Language Model Recommendations: A Path to Fairness'', 2024. 
