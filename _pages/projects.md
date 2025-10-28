@@ -19,7 +19,6 @@ redirect_from:
 </style>
 
 
-
 <span style="color:brown">**Selected Journals**</span>
 ======
    * David R. Nickel, Anindya Bijoy Das, David J. Love, and Christopher G. Brinton, ''Learning-Based Two-Way Communications: Algorithmic Framework and Comparative Analysis'',  in **IEEE Communications Letters**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/document/11078395)
