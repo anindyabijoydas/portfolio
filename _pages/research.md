@@ -60,7 +60,5 @@ redirect_from:
 ======
    * Myeung Suk Oh, Anindya Bijoy Das, Taejoon Kim, Jia Liu, David Love and Christopher G. Brinton, ''Energy-Aware Federated Learning for Positioning: Joint Client Selection and Resource Allocation via Deep Reinforcement Learning'', 2025. 
    * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Breaking the Shield: Vulnerabilities in Content Moderation for Multimodal Language Models'', 2025. 
-   * Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J Love and Christopher G Brinton, ''Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning'', 2025. 
    * Anindya Bijoy Das and Shahnewaz Karim Sakib, ''Unveiling and Mitigating Bias in Large Language Model Recommendations: A Path to Fairness'', 2024. 
-   * David Nickel, Anindya Bijoy Das, David Love and Christopher G. Brinton, ''Multi-Agent Hybrid Soft Actor-Critic for Joint Spectrum Sensing and Dynamic Spectrum Access in Cognitive Radio Networks'', 2024. 
-   * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2023. 
+   * Byunghyun Lee, Anindya Bijoy Das, David Love, Christopher G. Brinton and James Krogmeier, ''Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Approach'', 2024. 
