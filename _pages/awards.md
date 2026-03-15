@@ -41,8 +41,8 @@ redirect_from:
 <span style="color:brown">**Travel Grants**</span>
 ======
 
-* **NSF AI Institutes Virtual Organization (AIVO)** <br/> For The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV), 2026.
+* **NSF AI Institutes Virtual Organization (AIVO)** <br/> For the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Arizona, USA, 2026.
 
-* **NSF Student Travel Grant** <br/> For International Symposium on Information Theory (ISIT), 2019.
+* **NSF Student Travel Grant** <br/> For the International Symposium on Information Theory (ISIT), Paris, France, 2019.
 
 
