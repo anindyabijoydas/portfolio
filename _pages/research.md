@@ -22,6 +22,7 @@ redirect_from:
 
 <span style="color:brown">**Selected Journals**</span>
 ======
+   * Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J. Love, and Christopher G. Brinton, ''Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning'',  in **IEEE Transactions on Networking**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/11281881)
    * David R. Nickel, Anindya Bijoy Das, David J. Love, and Christopher G. Brinton, ''Learning-Based Two-Way Communications: Algorithmic Framework and Comparative Analysis'',  in **IEEE Communications Letters**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/document/11078395)
    * Junghoon Kim, Taejoon Kim, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J. Love, and Christopher G. Brinton, ''Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches'',  in **IEEE Transactions on Information Theory**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10981735)
    * Satyavrat Wagle, Anindya Bijoy Das, David J Love and Christopher G Brinton, ''Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning'',  in **IEEE Journal of Selected Topics in Signal Processing**, 2025. [<span style="color:blue">**Paper**.</span>](https://ieeexplore.ieee.org/abstract/document/10972233)
