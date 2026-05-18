@@ -6,20 +6,51 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <style type="text/css">
   body {
     background-color: #F0FFFF;
+  }
+
+  .research-block {
+    margin-left: 25px;
+    margin-bottom: 18px;
+  }
+
+  .research-title {
+    color: brown;
+    font-weight: bold;
   }
 </style>
 
 <span style="color:brown">**AXIOM**</span>
 ======
-* <span style="color:blue">**Assistant Professor**</span> (August 2024 - Present) <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA 
 
-* <span style="color:blue">**Postdoctoral Researcher**</span> (May 2022 - August 2024) <br/> Electrical and Computer Engineering <br/> Purdue University, IN, USA 
+<span style="color:blue">**Accelerator for eXplainable Intelligence through Optimization and Machine Learning**</span>
 
-* <span style="color:blue">**Research Assistant**</span> (August 2019 - May 2022) <br/> Electrical and Computer Engineering <br/> Iowa State University, IA, USA 
+<br/><br/>
 
-* <span style="color:blue">**Teaching Assistant**</span> (August 2016 - August 2019) <br/> Electrical and Computer Engineering <br/> Iowa State University, IA, USA 
+Welcome to the website of **AXIOM**, the **Accelerator for eXplainable Intelligence through Optimization and Machine Learning**. 
+----
 
-* <span style="color:blue">**Lecturer**</span> (February 2015 - July 2016) <br/> Electrical and Computer Engineering <br/> Presidency University, Dhaka, Bangladesh 
+## What We Do
+
+<div class="research-block">
+<span class="research-title">Coded Computation</span><br/>
+We design coding-theoretic methods that make large-scale matrix and learning computations faster and more resilient to slow or unreliable workers. Our work focuses on recovery thresholds, numerical stability, sparse matrix computations, and practical algorithms for distributed computing systems where efficiency, robustness, and scalability are critical.
+</div>
+
+<div class="research-block">
+<span class="research-title">Trustworthy LLMs</span><br/>
+We study the reliability, safety, fairness, and robustness of large language models across real-world decision-making settings. Our research investigates bias, hallucination, misalignment, jailbreak vulnerabilities, evaluation methods, and mitigation strategies to build LLM-based systems that are more transparent, dependable, and aligned with human goals.
+</div>
+
+<div class="research-block">
+<span class="research-title">Distributed Machine Learning</span><br/>
+We develop distributed and federated machine learning algorithms that enable intelligent systems to learn from decentralized data while addressing communication, privacy, robustness, and heterogeneity challenges. Our work includes federated learning, vertical federated learning, decentralized optimization, secure collaboration, and scalable learning over networked devices and edge systems.
+</div>
+
+<div class="research-block">
+<span class="research-title">AI/ML Applications</span><br/>
+We apply AI and machine learning to impactful domains including healthcare, biomedical data analysis, power systems, communication networks, computer vision, and engineering systems. Our goal is to translate theoretical and algorithmic advances into practical tools that improve reliability, efficiency, decision-making, and scientific discovery across interdisciplinary applications.
+</div>
