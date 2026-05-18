@@ -32,7 +32,7 @@ redirect_from:
 
   <li style="margin-bottom: 12px;">
     <strong>Digital Communication</strong> (Fall 2025) <br/>
-    Course content: lecture notes, signal-space examples, problem sets, and simulation-based exercises.
+    Course content: Different types of signals, Orthogonality, Digital modulation techniques, ASK/PSK/FSK/OFSK, Matched filtering, Pptimum detection, Probability of error analysis, Pulse shaping and Interference.
   </li>
 
   <li style="margin-bottom: 12px;">
