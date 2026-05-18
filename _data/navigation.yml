@@ -1,12 +1,14 @@
 # main links links
 main:
-  - title: "Professional Experience"
+  - title: "Experience"
     url: /experience/
     
   - title: "Education"
     url: /education/    
     
- 
+  - title: "AXIOM"
+    url: /axiom/    
+     
   - title: "Publications"
     url: /research/
 
