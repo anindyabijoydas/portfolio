@@ -27,7 +27,7 @@ redirect_from:
 
   <li style="margin-bottom: 12px;">
     <strong>Wireless Communications</strong> (Spring 2026) <br/>
-    Course content: lecture slides, homework problems, MATLAB examples, and exam review materials.
+    Course content: Wireless propagation, Path-loss models, Ground reflection model, Shadowing and fading, Diffraction and Scattering, Cellular system concepts, Multiple access techniques, and MIMO.
   </li>
 
   <li style="margin-bottom: 12px;">
@@ -37,7 +37,7 @@ redirect_from:
 
   <li style="margin-bottom: 12px;">
     <strong>Computational Problem Solving</strong> (Spring 2026) <br/>
-    Course content: MATLAB programming, Arrays and matrices, Loops and conditional statements, Numerical methods, Root finding, Numerical differentiation and integration, Systems of equations, and Engineering problem solving.
+    Course content: Arrays and matrices, Loops and conditional statements, Numerical methods in MATLAB, Root finding, Numerical differentiation and integration, Systems of equations, and Engineering problem solving.
   </li>
 </ol>
 
