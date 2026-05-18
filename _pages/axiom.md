@@ -29,8 +29,8 @@ Welcome to our lab: <span style="color:brown">**AXIOM**</span>
 
 <span style="font-size:22px; font-weight:700; color:#4B5563; line-height:1.6;">
 <span style="color:#0057D9; font-size:28px;">A</span>ccelerator for 
-</span>e<span style="color:#7C3AED; font-size:28px;">X</span>plainable 
-<span style="color:#008B8B; font-size:28px;">I</span>ntelligence through 
+e<span style="color:#7C3AED; font-size:28px;">X</span>plainable 
+<span style="color:#B22222; font-size:28px;">I</span>ntelligence through 
 <span style="color:#D97706; font-size:28px;">O</span>ptimization and 
 <span style="color:#C026D3; font-size:28px;">M</span>achine Learning
 </span>
