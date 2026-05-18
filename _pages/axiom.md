@@ -27,7 +27,7 @@ Welcome to our lab: <span style="color:brown">**AXIOM**</span>
 ======
 
 
-<span style="font-size:22px; font-weight:bold;">
+<span style="font-size:22px; font-weight:bold; color:#4B5563;">
 <span style="color:blue">A</span>ccelerator for 
 <span style="color:blue">X</span>plainable 
 <span style="color:blue">I</span>ntelligence through 
