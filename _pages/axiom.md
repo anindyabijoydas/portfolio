@@ -58,3 +58,43 @@ We develop distributed and federated machine learning algorithms that enable int
 <span class="research-title">ML Applications</span><br/>
 We apply machine learning methods to impactful domains including healthcare, power systems, communication networks, agriculture and engineering systems to advance practical tools across interdisciplinary applications.
 </div>
+
+
+<br/>
+
+<h2 style="text-decoration: underline; color:#4B5563;">
+Members
+</h2>
+
+<hr>
+
+<div style="margin-left:25px;">
+
+<p>
+<img src="{{ base_path }}/images/members/aghosh.jpg" 
+     style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
+<span style="color:#A52A2A; font-size:18px; font-weight:700;">Arijit Ghosh</span><br/>
+<span style="font-size:17px; color:#4B5563;">
+Arijit works on large language models for agriculture, focusing on intelligent analysis, decision support, and trustworthy AI tools for agricultural applications.
+</span>
+</p>
+
+<p>
+<img src="{{ base_path }}/images/members/sdey.jpg" 
+     style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
+<span style="color:#A52A2A; font-size:18px; font-weight:700;">Sourav Dey</span><br/>
+<span style="font-size:17px; color:#4B5563;">
+Sourav works on large language models for EEG analysis, with interests in biomedical AI, neural signal interpretation, and reliable machine learning for healthcare applications.
+</span>
+</p>
+
+<p>
+<img src="{{ base_path }}/images/members/nislam.jpg" 
+     style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
+<span style="color:#A52A2A; font-size:18px; font-weight:700;">Nafisa Islam</span><br/>
+<span style="font-size:17px; color:#4B5563;">
+Nafisa works on coded computation, focusing on straggler-resilient distributed matrix computations, numerical reliability, and efficient algorithms for scalable computing systems.
+</span>
+</p>
+
+</div>
