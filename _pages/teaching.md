@@ -20,22 +20,22 @@ redirect_from:
   <u><strong>Conducted Courses</strong></u><br/>
   
 <ol style="margin-top: 10px; margin-left: 35px; padding-left: 25px;">
-  <li style="margin-bottom: 22px;">
+  <li style="margin-bottom: 12px;">
     <strong>Applied AI and ML in Practice</strong> (Fall 2025) <br/>
     Course materials: lecture notes, hands-on coding examples, assignments, and project guidelines.
   </li>
 
-  <li style="margin-bottom: 22px;">
+  <li style="margin-bottom: 12px;">
     <strong>Wireless Communications</strong> (Spring 2026) <br/>
     Course materials: lecture slides, homework problems, MATLAB examples, and exam review materials.
   </li>
 
-  <li style="margin-bottom: 22px;">
+  <li style="margin-bottom: 12px;">
     <strong>Digital Communication</strong> (Fall 2025) <br/>
     Course materials: lecture notes, signal-space examples, problem sets, and simulation-based exercises.
   </li>
 
-  <li style="margin-bottom: 22px;">
+  <li style="margin-bottom: 12px;">
     <strong>Computational Problem Solving</strong> (Spring 2026) <br/>
     Course materials: MATLAB tutorials, programming assignments, numerical problem-solving examples, and exam preparation resources.
   </li>
