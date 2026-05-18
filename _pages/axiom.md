@@ -72,7 +72,7 @@ Members
 
 <p>
 <img src="{{ base_path }}/images/aghosh.jpg" 
-     style="width:160px; height:160px; object-fit:cover; border-radius:50%; margin-right:28px; vertical-align:middle;">
+     style="width:200px; height:200px; object-fit:cover; border-radius:50%; margin-right:28px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Arijit Ghosh</span><br/>
 <span style="font-size:17px; color:#4B5563;">
 Arijit works on large language models for agriculture, focusing on intelligent analysis, decision support, and trustworthy AI tools for agricultural applications.
@@ -81,7 +81,7 @@ Arijit works on large language models for agriculture, focusing on intelligent a
 
 <p>
 <img src="{{ base_path }}/images/sdey.jpg" 
-     style="width:160px; height:160px; object-fit:cover; border-radius:50%; margin-right:28px; vertical-align:middle;">
+     style="width:200px; height:200px; object-fit:cover; border-radius:50%; margin-right:28px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Sourav Dey</span><br/>
 <span style="font-size:17px; color:#4B5563;">
 Sourav works on large language models for EEG analysis, with interests in biomedical AI, neural signal interpretation, and reliable machine learning for healthcare applications.
@@ -90,10 +90,10 @@ Sourav works on large language models for EEG analysis, with interests in biomed
 
 <p>
 <img src="{{ base_path }}/images/nafisa.jpg" 
-     style="width:160px; height:160px; object-fit:cover; border-radius:50%; margin-right:28px; vertical-align:middle;">
+     style="width:200px; height:200px; object-fit:cover; border-radius:50%; margin-right:28px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Nafisa Islam</span><br/>
 <span style="font-size:17px; color:#4B5563;">
-Nafisa Islam is currently pursuing her Ph.D. in Electrical and Computer Engineering at the University of Akron. She earned her undergraduate degree in Electronics and Telecommunication Engineering from Chittagong University of Engineering and Technology (CUET). Her research interests include distributed computing, computer vision, and machine learning. 
+Nafisa is currently pursuing her Ph.D. in Electrical and Computer Engineering at the University of Akron. She earned her undergraduate degree in Electronics and Telecommunication Engineering from Chittagong University of Engineering and Technology (CUET). Her research interests include distributed computing, computer vision, and machine learning. 
 </span>
 </p>
 
