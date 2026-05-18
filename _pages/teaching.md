@@ -37,7 +37,7 @@ redirect_from:
 
   <li style="margin-bottom: 12px;">
     <strong>Computational Problem Solving</strong> (Spring 2026) <br/>
-    Course content: MATLAB tutorials, programming assignments, numerical problem-solving examples, and exam preparation resources.
+    Course content: MATLAB programming, Arrays and matrices, Loops and conditional statements, Numerical methods, Root finding, Numerical differentiation and integration, Systems of equations, and Engineering problem solving.
   </li>
 </ol>
 
