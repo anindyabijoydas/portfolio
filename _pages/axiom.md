@@ -36,7 +36,6 @@ redirect_from:
 
 <br/><br/>
 
-
 ## What We Do
 
 <div class="research-block">
