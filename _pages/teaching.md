@@ -22,7 +22,7 @@ redirect_from:
 <ol style="margin-top: 10px; margin-left: 35px; padding-left: 25px;">
   <li style="margin-bottom: 12px;">
     <strong>Applied AI and ML in Practice</strong> (Fall 2025) <br/>
-    Course content: lecture notes, hands-on coding examples, assignments, and project guidelines.
+    Course content: Supervised and Unsupervised learning, Neural networks, Convolutional neural networks, GAN, Reinforcement learning, Federated learning, Large language models, and hands-on AI applications.
   </li>
 
   <li style="margin-bottom: 12px;">
