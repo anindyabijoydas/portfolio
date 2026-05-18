@@ -26,7 +26,13 @@ redirect_from:
 <span style="color:brown">**AXIOM**</span>
 ======
 
-<span>
+<span style="font-size:22px;">
+Welcome to our lab: <span style="color:brown">**AXIOM**</span>
+</span>
+
+<br/>
+
+<span style="font-size:18px; font-weight:bold;">
 <span style="color:blue">A</span>ccelerator for 
 <span style="color:blue">X</span>plainable 
 <span style="color:blue">I</span>ntelligence through 
@@ -36,7 +42,9 @@ redirect_from:
 
 <br/><br/>
 
-## What We Do
+<u>## What We Do</u>
+
+----
 
 <div class="research-block">
 <span class="research-title">Coded Computation</span><br/>
