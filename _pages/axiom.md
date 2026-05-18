@@ -23,10 +23,7 @@ redirect_from:
   }
 </style>
 
-<span style="color:brown">**AXIOM**</span>
-======
-
-<span style="font-size:22px;">
+<span style="font-size:28px;">
 Welcome to our lab: <span style="color:brown">**AXIOM**</span>
 </span>
 
