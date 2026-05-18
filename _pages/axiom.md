@@ -71,7 +71,7 @@ Members
 <div style="margin-left:25px;">
 
 <p>
-<img src="{{ base_path }}/images/aghosh.jpg" 
+<img src="{{ base_path }}/images/arijit.jpg" 
      style="width:170px; height:200px; object-fit:cover; border-radius:12px; margin-right:28px;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Arijit Ghosh</span><br/>
 <span style="font-size:17px; color:#4B5563;">
