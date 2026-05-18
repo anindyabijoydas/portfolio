@@ -93,7 +93,7 @@ Sourav works on large language models for EEG analysis, with interests in biomed
      style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Nafisa Islam</span><br/>
 <span style="font-size:17px; color:#4B5563;">
-Nafisa works on coded computation, focusing on straggler-resilient distributed matrix computations, numerical reliability, and efficient algorithms for scalable computing systems.
+Nafisa Islam is currently pursuing her Ph.D. in Electrical and Computer Engineering at the University of Akron. She earned her undergraduate degree in Electronics and Telecommunication Engineering from Chittagong University of Engineering and Technology (CUET). Her research interests include distributed computing, computer vision, and machine learning. 
 </span>
 </p>
 
