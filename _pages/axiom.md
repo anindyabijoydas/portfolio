@@ -71,7 +71,7 @@ Members
 <div style="margin-left:25px;">
 
 <p>
-<img src="{{ base_path }}/images/members/aghosh.jpg" 
+<img src="{{ base_path }}/images/aghosh.jpg" 
      style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Arijit Ghosh</span><br/>
 <span style="font-size:17px; color:#4B5563;">
@@ -80,7 +80,7 @@ Arijit works on large language models for agriculture, focusing on intelligent a
 </p>
 
 <p>
-<img src="{{ base_path }}/images/members/sdey.jpg" 
+<img src="{{ base_path }}/images/sdey.jpg" 
      style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Sourav Dey</span><br/>
 <span style="font-size:17px; color:#4B5563;">
@@ -89,7 +89,7 @@ Sourav works on large language models for EEG analysis, with interests in biomed
 </p>
 
 <p>
-<img src="{{ base_path }}/images/members/nislam.jpg" 
+<img src="{{ base_path }}/images/nislam.jpg" 
      style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-right:20px; vertical-align:middle;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Nafisa Islam</span><br/>
 <span style="font-size:17px; color:#4B5563;">
