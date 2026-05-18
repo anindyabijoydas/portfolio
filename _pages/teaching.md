@@ -18,28 +18,29 @@ redirect_from:
 
 * <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/> <br/>
   <u><strong>Conducted Courses</strong></u><br/>
+  
+<ol style="margin-top: 10px; padding-left: 25px;">
+  <li style="margin-bottom: 22px;">
+    <strong>Applied AI and ML in Practice</strong> (Fall 2025) <br/>
+    Course materials: lecture notes, hands-on coding examples, assignments, and project guidelines.
+  </li>
 
-<ol style="margin-top: 10px; margin-left: 35px; padding-left: 25px;">
-    <li style="margin-bottom: 22px;">
-      <strong>Applied AI and ML in Practice</strong> (Fall 2025) <br/>
-      Course materials: lecture notes, hands-on coding examples, assignments, and project guidelines.
-    </li>
+  <li style="margin-bottom: 22px;">
+    <strong>Wireless Communications</strong> (Spring 2026) <br/>
+    Course materials: lecture slides, homework problems, MATLAB examples, and exam review materials.
+  </li>
 
-    <li style="margin-bottom: 22px;">
-      <strong>Wireless Communications</strong> (Spring 2026) <br/>
-      Course materials: lecture slides, homework problems, MATLAB examples, and exam review materials.
-    </li>
+  <li style="margin-bottom: 22px;">
+    <strong>Digital Communication</strong> (Fall 2025) <br/>
+    Course materials: lecture notes, signal-space examples, problem sets, and simulation-based exercises.
+  </li>
 
-    <li style="margin-bottom: 22px;">
-      <strong>Digital Communication</strong> (Fall 2025) <br/>
-      Course materials: lecture notes, signal-space examples, problem sets, and simulation-based exercises.
-    </li>
+  <li style="margin-bottom: 22px;">
+    <strong>Computational Problem Solving</strong> (Spring 2026) <br/>
+    Course materials: MATLAB tutorials, programming assignments, numerical problem-solving examples, and exam preparation resources.
+  </li>
+</ol>
 
-    <li style="margin-bottom: 22px;">
-      <strong>Computational Problem Solving</strong> (Spring 2026) <br/>
-      Course materials: MATLAB tutorials, programming assignments, numerical problem-solving examples, and exam preparation resources.
-    </li>
-  </ol>
 
 * <span style="color:blue">**Lecturer**</span> <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016) <br/> Conducted courses: Numerical Methods, DSP, C, Electronics etc.
 
