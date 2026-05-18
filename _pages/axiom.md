@@ -30,8 +30,6 @@ redirect_from:
 Welcome to our lab: <span style="color:brown">**AXIOM**</span>
 </span>
 
-<br/>
-
 <span style="font-size:18px; font-weight:bold;">
 <span style="color:blue">A</span>ccelerator for 
 <span style="color:blue">X</span>plainable 
