@@ -16,7 +16,20 @@ redirect_from:
 <span style="color:brown">**Teaching Career**</span>
 ======
 
-* <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/> Conducted courses: Wireless Communications (Spring -2025), Digital Communication (Fall -2024).
+* <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/>
+  <u><strong>Conducted Courses</strong></u><br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;1. <strong>Applied AI and ML in Practice</strong> — Fall 2025 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course materials: lecture notes, hands-on coding examples, assignments, and project guidelines. <br/><br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;2. <strong>Wireless Communications</strong> — Spring 2026 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course materials: lecture slides, homework problems, MATLAB examples, and exam review materials. <br/><br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;3. <strong>Digital Communication</strong> — Fall 2025 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course materials: lecture notes, signal-space examples, problem sets, and simulation-based exercises. <br/><br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;4. <strong>Computational Problem Solving</strong> — Spring 2026 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course materials: MATLAB tutorials, programming assignments, numerical problem-solving examples, and exam preparation resources.
 
 * <span style="color:blue">**Lecturer**</span> <br/> Electrical and Computer Engineering <br/> Presidency University, Bangladesh (February 2015 - July 2016) <br/> Conducted courses: Numerical Methods, DSP, C, Electronics etc.
 
