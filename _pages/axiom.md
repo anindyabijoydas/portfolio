@@ -26,12 +26,16 @@ redirect_from:
 <span style="color:brown">**AXIOM**</span>
 ======
 
-<span style="color:blue">**Accelerator for eXplainable Intelligence through Optimization and Machine Learning**</span>
+<span>
+<span style="color:blue">A</span>ccelerator for 
+<span style="color:blue">X</span>plainable 
+<span style="color:blue">I</span>ntelligence through 
+<span style="color:blue">O</span>ptimization and 
+<span style="color:blue">M</span>achine Learning
+</span>
 
 <br/><br/>
 
-Welcome to the website of **AXIOM**, the **Accelerator for eXplainable Intelligence through Optimization and Machine Learning**. 
-----
 
 ## What We Do
 
