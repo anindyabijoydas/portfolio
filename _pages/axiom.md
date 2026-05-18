@@ -51,11 +51,11 @@ We study the reliability, safety and trustworthiness of large language models ac
 </div>
 
 <div class="research-block">
-<span class="research-title">Distributed Machine Learning</span><br/>
-We develop distributed and federated machine learning algorithms that enable intelligent systems to learn from decentralized data while addressing communication, privacy, robustness, and heterogeneity challenges. Our work includes federated learning, vertical federated learning, decentralized optimization, secure collaboration, and scalable learning over networked devices and edge systems.
+<span class="research-title">Distributed AI</span><br/>
+We develop distributed and federated machine learning algorithms that enable intelligent systems to learn from decentralized data while addressing communication, privacy, robustness, and heterogeneity challenges. 
 </div>
 
 <div class="research-block">
-<span class="research-title">AI/ML Applications</span><br/>
-We apply AI and machine learning to impactful domains including healthcare, biomedical data analysis, power systems, communication networks, computer vision, and engineering systems. Our goal is to translate theoretical and algorithmic advances into practical tools that improve reliability, efficiency, decision-making, and scientific discovery across interdisciplinary applications.
+<span class="research-title">ML Applications</span><br/>
+We apply machine learning methods to impactful domains including healthcare, power systems, communication networks, agriculture and engineering systems to advance practical tools across interdisciplinary applications.
 </div>
