@@ -42,12 +42,12 @@ Welcome to our lab: <span style="color:brown">**AXIOM**</span>
 
 <div class="research-block">
 <span class="research-title">Coded Computation</span><br/>
-We design coding-theoretic methods that make large-scale matrix and learning computations faster and more resilient to slow or unreliable workers. Our work focuses on recovery thresholds, numerical stability, sparse matrix computations, and practical algorithms for distributed computing systems where efficiency, robustness, and scalability are critical.
+We design coding-theoretic methods that make large-scale matrix and learning computations faster and more resilient to slow workers. Our work focuses on efficiency and scalability of distributed computing systems.
 </div>
 
 <div class="research-block">
-<span class="research-title">Trustworthy LLMs</span><br/>
-We study the reliability, safety, fairness, and robustness of large language models across real-world decision-making settings. Our research investigates bias, hallucination, misalignment, jailbreak vulnerabilities, evaluation methods, and mitigation strategies to build LLM-based systems that are more transparent, dependable, and aligned with human goals.
+<span class="research-title">Trustworthy AI</span><br/>
+We study the reliability, safety and trustworthiness of large language models across real-world decision-making settings. We focus on detecing and mitigating vulnerabilities including hallucination or misalignment.
 </div>
 
 <div class="research-block">
