@@ -19,7 +19,7 @@ redirect_from:
 * <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/> <br/>
   <u><strong>Conducted Courses</strong></u><br/>
   
-<ol style="margin-top: 10px; padding-left: 25px;">
+<ol style="margin-top: 10px; margin-left: 35px; padding-left: 25px;">
   <li style="margin-bottom: 22px;">
     <strong>Applied AI and ML in Practice</strong> (Fall 2025) <br/>
     Course materials: lecture notes, hands-on coding examples, assignments, and project guidelines.
