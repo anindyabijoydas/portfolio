@@ -16,7 +16,7 @@ redirect_from:
 <span style="color:brown">**Teaching Career**</span>
 ======
 
-* <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/>
+* <span style="color:blue">**Assistant Professor**</span> <br/> Electrical and Computer Engineering <br/> The University of Akron, OH, USA (August 2024 - Present) <br/> <br/>
   <u><strong>Conducted Courses</strong></u><br/>
 
 <ol style="margin-top: 10px; padding-left: 25px;">
