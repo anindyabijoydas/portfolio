@@ -80,7 +80,7 @@ Arijit works on large language models for agriculture, focusing on intelligent a
 </p>
 
 <p>
-<img src="{{ base_path }}/images/sdey.jpg" 
+<img src="{{ base_path }}/images/sourav.jpg" 
      style="width:170px; height:200px; object-fit:cover; border-radius:12px; margin-right:28px;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Sourav Dey</span><br/>
 <span style="font-size:17px; color:#4B5563;">
