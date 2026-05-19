@@ -84,7 +84,7 @@ Arijit is a PhD student in in Electrical and Computer Engineering at the Univers
      style="width:170px; height:200px; object-fit:cover; border-radius:12px; margin-right:28px;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Sourav Dey</span><br/>
 <span style="font-size:17px; color:#4B5563;">
-Sourav is currently a Ph.D. student in Electrical and Computer Engineering at the University of Akron. He did BSc in Electrical and Electronic Engineering from Chittagong University of Engineering and Technology (CUET). His research interests include machine learning, biomedical signal processing, and LLM applications. 
+Sourav is currently a Ph.D. student in Electrical and Computer Engineering at the University of Akron. He did BSc in Electrical and Electronic Engineering from Chittagong University of Engineering and Technology (CUET). His research interests include deep learning, biomedical signal processing, distributed learning and large language model applications. 
 </span>
 </p>
 
