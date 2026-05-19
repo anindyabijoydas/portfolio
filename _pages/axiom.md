@@ -75,7 +75,7 @@ Members
      style="width:170px; height:200px; object-fit:cover; border-radius:12px; margin-right:28px;">
 <span style="color:#A52A2A; font-size:18px; font-weight:700;">Arijit Ghosh</span><br/>
 <span style="font-size:17px; color:#4B5563;">
-Arijit works on large language models for agriculture, focusing on intelligent analysis, decision support, and trustworthy AI tools for agricultural applications.
+Arijit is a PhD student in in Electrical and Computer Engineering at the University of Akron. He got his Master's from Cleveland State University. He has nearly a decade experience in machine learning and generative AI. His research interests include improving the performance of open source LLMs in terms of decision making and trustworthiness. 
 </span>
 </p>
 
