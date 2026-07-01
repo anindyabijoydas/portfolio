@@ -15,7 +15,7 @@ redirect_from:
 <span style="color:brown">**Research Grant**</span>
 ======
 * [<span style="color: #00008B">**NSF-CCSS**</span>](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2503641) <br/> Title: Collaborative Research: CCSS: Practical Coded Matrix Computation
- <br/> Total amount: $288,944.00 <br/> Awarded by NSF-Division of Electrical, Communications and Cyber Systems, October 2025 - September 2028 
+ <br/> Amount: $128,479.00 <br/> Awarded by NSF-Division of Electrical, Communications and Cyber Systems, October 2025 - September 2028 
 
 <span style="color:brown">**Mentorship**</span>
 ======
