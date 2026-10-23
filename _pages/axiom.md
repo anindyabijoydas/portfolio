@@ -97,4 +97,13 @@ Nafisa is currently pursuing her Ph.D. in Electrical and Computer Engineering at
 </span>
 </p>
 
+<p>
+<img src="{{ base_path }}/images/Shadid.jpg" 
+     style="width:170px; height:200px; object-fit:cover; border-radius:12px; margin-right:28px;">
+<span style="color:#A52A2A; font-size:18px; font-weight:700;">Shadid Yousuf</span><br/>
+<span style="font-size:17px; color:#4B5563;">
+Shadid Yousuf is a Ph.D. student in the Department of Electrical and Computer Engineering at The University of Akron. Previously, he earned his bachelor's in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET) in 2025. His research interests include trustworthy AI, with a particular focus on developing algorithms to detect and mitigate vulnerabilities in large language models.
+</span>
+</p>
+
 </div>
